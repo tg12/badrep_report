@@ -68,13 +68,13 @@ for each in ips_to_check:
         pass
 
 ip_data.sort(key=lambda x: x[1])
-print(tabulate(ip_data))
+#print(tabulate(ip_data))
 f = open("owner_data.txt", "w")
 f.write(tabulate(ip_data))
 f.close()
 
 owner_count = pd.Series(owner_lst).value_counts()
-print(owner_count)
+#print(owner_count)
 
 f = open("bad_isp_report.txt", "w")
 f.write(owner_count)
