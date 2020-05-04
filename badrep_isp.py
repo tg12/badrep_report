@@ -39,7 +39,8 @@ lists_to_agg = [
     "https://threatintel.stdominics.sa.edu.au/",
     "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt",
     "https://github.com/stamparm/ipsum/blob/master/ipsum.txt?raw=true",
-    "https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt"]
+    "https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt",
+    "https://raw.githubusercontent.com/tg12/bad_packets_blocklist/master/bad_packets_list.txt"]
 
 
 for item in lists_to_agg:
@@ -68,13 +69,13 @@ for each in ips_to_check:
         pass
 
 ip_data.sort(key=lambda x: x[1])
-#print(tabulate(ip_data))
+# print(tabulate(ip_data))
 f = open("owner_data.txt", "w")
 f.write(str(ip_data))
 f.close()
 
 owner_count = pd.Series(owner_lst).value_counts().to_string()
-#print(owner_count)
+# print(owner_count)
 
 f = open("bad_isp_report.txt", "w")
 f.write(str(owner_count))
