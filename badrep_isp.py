@@ -70,7 +70,7 @@ for each in ips_to_check:
 ip_data.sort(key=lambda x: x[1])
 #print(tabulate(ip_data))
 f = open("owner_data.txt", "w")
-f.write(tabulate(ip_data))
+f.write(ip_data)
 f.close()
 
 owner_count = pd.Series(owner_lst).value_counts()
