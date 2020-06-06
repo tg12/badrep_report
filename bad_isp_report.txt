@@ -1,482 +1,409 @@
-HINET Data Communication Business Group, TW                                                   3026
-TOT-NET TOT Public Company Limited, TH                                                         817
-CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN                                           812
-FPT-AS-AP The Corporation for Financing & Promoting Technology, VN                             634
-CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                    557
-HKTIMS-AP HKT Limited, HK                                                                      187
-SKB-AS SK Broadband Co Ltd, KR                                                                 179
-CHINANET-SH-AP China Telecom (Group), CN                                                       159
-UUNET, US                                                                                      142
-ASN-TELSTRA Telstra Corporation Ltd, AU                                                         87
-CNIX-AP China Networks Inter-Exchange, CN                                                       75
-TMNET-AS-AP TM Net, Internet Service Provider, MY                                               67
-CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN                               63
-LGDACOM LG DACOM Corporation, KR                                                                55
-CHINANET-IDC-BJ-AP IDC, China Telecommunications Corporation, CN                                47
-TACHYON-AS-ID PT Remala Abadi, ID                                                               47
-CMCTELECOM-AS-VN CMC Telecom Infrastructure Company, VN                                         43
-EIRTEL-AS-AP Eirtel Services Ltd., BD                                                           37
-TOT-LLI-AS-AP TOT Public Company Limited, TH                                                    34
-RAYA-AS, EG                                                                                     32
-NA                                                                                              31
-SIS-AS-AP Star Internet Service, BD                                                             29
-VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                                       27
-DVOIS-IN D-Vois Broadband Pvt Ltd, IN                                                           26
-TE-AS TE-AS, EG                                                                                 24
-COOL-IDEAS, ZA                                                                                  24
-IDNIC-DISKOMINFOKLATEN-AS-ID DISKOMINFO KLATEN, ID                                              23
-SATLINKPVTLTD-AS-AP SatLink Pvt Ltd, MV                                                         22
-PROGOTIIT-AS-AP Mohammad Shahajahan, BD                                                         22
-TIKONAIN-AS Tikona Infinet Ltd., IN                                                             21
-JENNY-INTERNET, ZA                                                                              20
-CEPATNET-AS-ID PT Mora Telematika Indonesia, ID                                                 20
-ZUBAIRITEXPERT-AS-AP MD ZUBAIR ISLAM t/a ZUBAIR IT EXPERT, BD                                   20
-HKKFGL-AS-AP HK Kwaifong Group Limited, HK                                                      19
-ICN-AS INSTANT CABLE NETWORK PVT LTD, IN                                                        19
-ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                                 18
-SHANGTEL-AS-ID PT Shangkuriang Telekomunikasi Indonesia, ID                                     17
-CHINA169-BJ China Unicom Beijing Province Network, CN                                           16
-VODAFONE-AS-AP Vodafone Australia Pty Ltd, AU                                                   16
-ASN-CBNBROADBAND PT. Cyberindo Aditama, ID                                                      15
-MauritiusTelecom, MU                                                                            15
-Afrihost, ZA                                                                                    15
-IDNIC-KOMINFOTANGSEL-AS-ID DISKOMINFO TANGERANG SELATAN, ID                                     14
-STARHUB-NGNBN Starhub Ltd, SG                                                                   13
-AMAZON-AES, US                                                                                  13
-ICT-AS-ID PT. Intranusa Core Teknologi, ID                                                      13
-CHINATELECOM-CTCLOUD Cloud Computing Corporation, CN                                            12
-ASDETUK http://www.heficed.com, GB                                                              12
-HKBNES-AS-AP HKBN Enterprise Solutions HK Limited, HK                                           12
-MPX-AS Microplex PTY LTD, AU                                                                    12
-NAYATEL-PK Nayatel (Pvt) Ltd, PK                                                                11
-WORLDVIS-AS-IN World Vision Networks Private Limited, IN                                        11
-GIGABIT-MY Gigabit Hosting Sdn Bhd, MY                                                          11
-MIFI-AS-IN Manish Infocom Private Limited, IN                                                   11
-CHINATELECOM-HENAN-LUOYANG-IDC Luoyang, Henan Province, P.R.China., CN                          10
-NETWORK-LEAPSWITCH-IN LeapSwitch Networks Pvt Ltd, IN                                           10
-SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd, MY                                               10
-SA-Domain-InternetServices, ZA                                                                   9
-OPTAGE OPTAGE Inc., JP                                                                           9
-GEMNETSERVICES-AS-AP Gemnet Enterprise Solutions, PK                                             9
-IDNIC-POLTEKKESYK-AS-ID POLTEKKES KEMENKES YOGYAKARTA, ID                                        9
-KKNETWROK-AS-AP KK Networks (Pvt) Ltd., PK                                                       9
-SIFY-AS-IN Sify Limited, IN                                                                      8
-KINGCORP-KH OpenNet ISP Cambodia, KH                                                             8
-YANDEX, RU                                                                                       8
-COLOMX-LLC, US                                                                                   8
-BALIFIBERNET-AS-ID PT Bali Towerindo Sentra, Tbk, ID                                             8
-ANI89-AS-IN Ani Broadband Service Pvt Ltd, IN                                                    8
-Vox-Telecom, ZA                                                                                  8
-ZEIMUDO-AS Zeimudo Networks autonomous system, SC                                                8
-THINKDREAM-AS-AP ThinkDream Technology Limited, HK                                               8
-MYREPUBLIC-SG MyRepublic Ltd., SG                                                                7
-TPCPL-AS-AP The Professional Communications Pvt Ltd, PK                                          7
-MICROSOFT-CORP-MSN-AS-BLOCK, US                                                                  7
-NETNAM-AS-AP Netnam Company, VN                                                                  7
-CNM-AS-KR DLIVE, KR                                                                              7
-SRIVARI-AS Sri Vari Network Private Limited, IN                                                  7
-HCNSEOCHOCATV-AS-KR SEOCHO CABLE SYSTEMS CO., LTD., KR                                           6
-GAYANET-AS-KR LG HelloVision Corp., KR                                                           6
-Web-Africa-Networks-AS, ZA                                                                       6
-ESTOB-AS-AP Esto Broadband Private Limited, IN                                                   6
-BCPL-SG BGPNET Global ASN, SG                                                                    6
-TTSCL-AS-AP TURBOTECH CO., LTD., KH                                                              6
-DREAMPLUS-AS-KR LG HelloVision Corp., KR                                                         6
-VOCUSGROUPNZ VocusGroup, NZ                                                                      6
-ANEKASIGNAL-AS-ID PT Aneka Signal, ID                                                            6
-GIGANTIC-AS Gigantic Infotel Pvt Ltd, IN                                                         5
-EKOWEB-AS-IN Ekowebtech It Services Pvt Ltd, IN                                                  5
-Areeba-Guinea-AS, GN                                                                             5
-TOPNET, TN                                                                                       5
-CAT-IDC-4BYTENET-AS-AP CAT TELECOM Public Company Ltd,CAT, TH                                    5
-Somtel-Somalia-AS, SO                                                                            5
-SSDTL-BD Systems Solutions & development Technologies Limited, BD                                5
-EASYHOST-HK EASYHOST SOLUTION LIMITED, HK                                                        5
-AIRNET1-AS-AP Airnet Communications, BD                                                          5
-CJHAEUNDAEGIJANG-AS-KR LG HelloVision Corp., KR                                                  5
-NETNCR-AS Netncr Technology Pvt. Ltd., IN                                                        5
-NETMAGIC-AP Netmagic Datacenter Mumbai, IN                                                       5
-YNETT-AS-IN Ynet Telecom Solutions, IN                                                           5
-NHANHOA-AS-VN NhanHoa Software company, VN                                                       5
-CHINANET-SHAANXI-CLOUD-BASE CHINANET SHAANXI province Cloud Base network, CN                     5
-MYREPUBLIC-AS-ID PT. Eka Mas Republik, ID                                                        5
-GARUDA-AS-ID PT. Garuda Media Telematika, ID                                                     4
-CLASSIC-NP Classic Tech Pvt. Ltd., NP                                                            4
-GIGAPASS-AS-KR LG HelloVision Corp., KR                                                          4
-WITRIBE-AS-AP WITRIBE PAKISTAN LIMITED, PK                                                       4
-Somlink-Wireless-AS, SO                                                                          4
-ILIS-AS-AP I Link Internet Service, BD                                                           4
-APEXNETCOMM-AS-IN Apex Netcom India Pvt. Ltd., IN                                                4
-MICROLINK-AS-AP Microlink Technology, BD                                                         4
-ELLFIBER-AS Ell Innovations Pvt Ltd, IN                                                          4
-CJCKN-AS-KR LG HelloVision Corp., KR                                                             4
-SAJIDTRADINGLTD-AS-AP Sajid Trading Ltd., BD                                                     4
-SREEJON-AS-AP Sreejon Online.Com, BD                                                             4
-CLOUDIE-AS-AP Cloudie Limited, HK                                                                4
-SUNHK-DATA-AS-AP Sun Network (Hong Kong) Limited - HongKong Backbone, HK                         4
-ZSN Shanghai Chenyi Network Technology Co.,Ltd, CN                                               4
-ROYALGREENINCBD-TRANSIT-AS-AP Royal Green Online Ltd. Internet Service Provider, Dhaka, BD       4
-EvoNet-AS, ZA                                                                                    4
-ABUZZITLIMITED-AS-AP MD. Mokhlesur Rahman, BD                                                    4
-ASMedi, MA                                                                                       4
-ROYALCON-AS-IN Royal Connect Solutions Pvt Ltd, IN                                               4
-NISPLMTR-AS Navin Internet Services Pvt. Ltd., IN                                                4
-VNPT-AS-VN VNPT Corp, VN                                                                         4
-MNBL-TRANSIT-AS-AP MetroNet Bangladesh Limited, Fiber Optic Based Metropolitan Data, BD          3
-Hero-Telecoms, ZA                                                                                3
-ANGKORENC-AS-AP ANGKOR E & C (CAMBODIA) Co.,Ltd., KH                                             3
-INFOKOM-AS-ID PT Infokom Elektrindo, ID                                                          3
-TRIPLE-AS Triple Play Broadband Services India Pvt Ltd, IN                                       3
-LTG-AS-AP LinkChina Telecom Global Limited., HK                                                  3
-DACEN-2, US                                                                                      3
-MINNALNW-AS Minnal Digital Network Private Limited, IN                                           3
-IPTELECOM-AP IPTELECOM ASIA, MY                                                                  3
-SISP-AS-IN Sanhati Infocom Services Private Limited, IN                                          3
-TPP-AS-PK Telenor Pakistan, PK                                                                   3
-CYBERNET-AP Cyber Internet Services (Pvt) Ltd., PK                                               3
-ERX-CERNET-BKB China Education and Research Network Center, CN                                   3
-BOOMINFOTECH-AS-AP Boom Info Tech (SMC-Pvt) Ltd, PK                                              3
-GHANATEL-AS, GH                                                                                  3
-NETSTRA-AS-IN Netstra Communications Pvt Ltd, IN                                                 3
-FRONTIER-FRTR, US                                                                                3
-AOT-AS-AP Adel Online Technology, BD                                                             3
-VIANET-NP Vianet Communications Pvt. Ltd., NP                                                    3
-CTGONLINE-AS-AP Chittagong Online Limited AS38592 AP, BD                                         3
-MATCORP-AS-AP M.A.T Co., Ltd., KH                                                                3
-IDNIC-DINHUBKOMINFO-JATENG-AS-ID DINHUBKOMINFO PEMPROV. JAWA TENGAH, ID                          3
-PRB-AS-ID PT. PALAPA RING BARAT, ID                                                              3
-NEXTGENONLINE-AS-AP Nextgen Online, BD                                                           3
-ELYZIUM-AS Elyzium Technologies Pvt. Ltd., IN                                                    3
-MEGHBELA-IN MEGHBELA BROADBAND, IN                                                               3
-KYIT-AS-AP Kuaiyun Information Technology CO.Ltd., CN                                            3
-Internet-Solutions-, NG                                                                          3
-SINGTEL-FIBRE Singtel Fibre Broadband, SG                                                        3
-JDCOM Beijing Jingdong 360 Degree E-commerce Co., Ltd., CN                                       3
-WIBRO-AS Wi-Bro Solutions Pvt. Ltd, IN                                                           3
-IAM-AS, MA                                                                                       3
-SYSN1234-AS-IN Sysnet Broadband Services Private Limited, IN                                     3
-ENGTAC-AS-TH-AP Total Access Communication PLC., TH                                              3
-FAZNET-AS-ID PT Mitra Lintas Multimedia, ID                                                      3
-KINXIDC-AS-KR KINX, KR                                                                           3
-VAINAVIINDUSTRIESLTD-IN VAINAVI INDUSTIES LTD, INTERNET SERVICE PROVIDER, INDIA, IN              3
-IDNIC-PEMPROVPAPUABARAT-AS-ID DINAS KOMINFO PEMDA PAPUA BARAT, ID                                3
-Paw-Paw-Wireless, ZA                                                                             3
-CONNECT2B-AS-PK Broadband ISP, FTTH and Cable Service Provider, PK                               3
-MAXTECH-AS Maxtech Broadband Pvt Ltd, IN                                                         3
-SOLIDTOOLSINC, US                                                                                3
-GTMH-AS-AP Golden TMH Telecom Co. Ltd, MM                                                        3
-ULTRAWA-AS-IN Ultrawave Internet Access Pvt Ltd, IN                                              3
-SDCL-AS-AP Sky Digital Co., Ltd., TW                                                             2
-STARNET7-AS Juweriyah Networks Private Limited, IN                                               2
-THREE-AS-ID Hutchison CP Telecommunications, PT, ID                                              2
-BRAINPK-AS-AP Brain Telecommunication Ltd., PK                                                   2
-FPSTI-AS-AP Fil Products Service Television Incorporated, PH                                     2
-MITSOL, ZA                                                                                       2
-KKON, NG                                                                                         2
-ITACE-AS-AP Itace International Limited, HK                                                      2
-PLUSNETINC-AS-AP Plusnet Inc, BD                                                                 2
-PERFECT-IN PERFECT INTERNET PVT LTD, IN                                                          2
-WiberSolutions-AS, ZA                                                                            2
-IIJ Internet Initiative Japan Inc., JP                                                           2
-DATAISP-AS Datagram Network India Pvt. Ltd., IN                                                  2
-ICCNET-DHK-BD ICC Communication, BD                                                              2
-TPS-CN-AS Test platform Service Center, CN                                                       2
-NETSEC-HK NETSEC, HK                                                                             2
-ITSCOM its communications Inc., JP                                                               2
-FCPL-AS-AP Firstlink Communications Pvt. Ltd., NP                                                2
-WANANCHI-, KE                                                                                    2
-VTL-AS-AP Vision Technologies Ltd., BD                                                           2
-DISHAWAVESINFONET-AS DISHAWAVES INFONET PVT. LTD, IN                                             2
-GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                          2
-TECHNOCORE-AS-AP cloudone, BD                                                                    2
-GIGALINE-AS Gigaline Teleservices Opc Private Limited, IN                                        2
-ACCELERIT, ZA                                                                                    2
-OMSAI-AS Omsai Cable Systems India Pvt Ltd, IN                                                   2
-GITGE, GQ                                                                                        2
-GVA-Canalbox, BJ                                                                                 2
-SADDAMHOSSAIN-AS-AP Saddam Hossain t/a Asian Network, BD                                         2
-SICIPL-AS Supersonic Isp Connectivity India Pvt Ltd, IN                                          2
-SKYNETCHOWMUHANI-AS-AP SKYNET CHOWMUHANI, BD                                                     2
-AS-SNSISPL-IN Sns Internet Services Private Limited, IN                                          2
-SDI-AS-ID PT Sumber Data Indonesia, ID                                                           2
-SURF-AS-AP Sophon Broadband Networks co.,ltd, TH                                                 2
-UNICOM-NM-WULANCHABU-IDC UNICOM InnerMongolia province network, CN                               2
-TELNET1-AS-AP Telnet Technoinfra Pvt Ltd, IN                                                     2
-TTCL-CN Shen Zhen Hu Lian Xian Feng Technology Co., Limited, CN                                  2
-STARHUB-INTERNET StarHub Ltd, SG                                                                 2
-xneelo, ZA                                                                                       2
-FIBERNET-AS-ID PT. Fiber Networks Indonesia, ID                                                  2
-ILNET-TELECOM, TD                                                                                2
-T2-AS-AP T Network, BD                                                                           2
-WINDSOR-AS Windsor Internet Private Limited, IN                                                  2
-ECPL2018-AS Ekdant Communication Pvt Ltd, IN                                                     2
-SAIX-NET, ZA                                                                                     2
-STARNET-AS-ID PT. Cemerlang Multimedia, ID                                                       2
-RSBI-AS Sharplink Wireless Solution Pvt Ltd, IN                                                  2
-Your-Communications, ZA                                                                          2
-IDNIC-CLOUDATA-AS-ID PT. Cloudata Indonesia, ID                                                  2
-SALTSYNC-AS-AP SALTSYNC, BD                                                                      2
-LEGENDS-CONNECT, ZA                                                                              2
-ANINETWORK-IN Ani Network Pvt Ltd, IN                                                            2
-AIRDESIGNBROADCAST-AS Airdesign Broadcast Media Pvt Ltd, IN                                      2
-Hammer-and-Tongues-AS, ZW                                                                        2
-ARJUN-AS-IN Arjun Infotech, IN                                                                   2
-GCNCATV-AS-KR Gyounggidongbu cable tv co., Ltd., KR                                              2
-ALDM-ID PT. ARTHA LINTAS DATA MANDIRI, ID                                                        2
-UIO4646-AS Unigro Infranet Online Pvt. Ltd., IN                                                  2
-PEGTECHINC, US                                                                                   2
-CMCL-AS-AP Chittagong multi channel limited, BD                                                  2
-TUNISIANA, TN                                                                                    2
-DEDIPATH-LLC, US                                                                                 2
-APNETCOM-AS Ap Netcom Services, IN                                                               2
-ADSOTA-AS-VN Adsota Corporation, VN                                                              2
-HYPERNET-AS-ID PT. HIPERNET INDODATA, ID                                                         2
-NETCONNECTWIFI-AS Net Connect Wifi Pvt Ltd, IN                                                   2
-CTRLS-AS-IN CtrlS Datacenters Ltd., IN                                                           2
-FIVENETWORK-AS-IN Five network Broadband Solution Pvt Ltd, IN                                    2
-SPEEDDIG-AS Speedmaxx Digital Networks Pvt Ltd, IN                                               2
-WSBPL-AS Webstar Broadband Private Limited, IN                                                   2
-PEEREX-NET-AS-AP PEEREX NETWORKS LTD./IIG, BD                                                    2
-JAMBONET, KE                                                                                     2
-SIFI-AS-IN Sifi Online Pvt Ltd, IN                                                               2
-SPACETRA-AS-IN Spacetrade Internet Pvt Ltd, IN                                                   2
-VODAFONE-IN Vodafone India Ltd., IN                                                              2
-LETSWIN-ASN-1 LETSWIN TELECOM CO., LTD., TW                                                      2
-WINGSNET-AS Wingsnet Internet Pvt. Ltd., IN                                                      2
-IDNIC-VERBIND-AS-ID PT. VERBIND INTERNET SOLUSINDO, ID                                           2
-IDNIC-KOMINFOKABMGL-AS-ID DISKOMINFO Kab. Magelang, ID                                           2
-AMARNETSYSTEM-AS-AP Amarnet System, BD                                                           2
-ISSB-AS-AP INNET SOLUTIONS SDN BHD, MY                                                           2
-LETABANETWORKS, ZA                                                                               2
-SHIRSTY9-AS Shirsty Internet Services Pvt Ltd, IN                                                2
-SEVENSTAR-AS Seven Star Internet Service Provider, IN                                            2
-SILICON-AS-IN Silicon Care Broadnet Pvt Ltd., IN                                                 2
-HSPNET-AS-ID PT Parsaoran Global Datatrans, ID                                                   2
-RAWAFED-LIBYA, LY                                                                                2
-ASKNETIN-AS-IN Asknet Internet Service, IN                                                       2
-NBSP-AS Netmax Broadband Services, IN                                                            2
-NTPL-AS-AP Netze Technology Private Limited, PK                                                  2
-CIX-PH U506 Executive Bldg 369 G. Puyat Ave cor Makati Ave, PH                                   2
-DNET-AS-IN Dnet E Solutions Pvt Ltd, IN                                                          2
-ATI-, TN                                                                                         2
-IDNIC-ISN-AS-ID PT. InfoMedia Solusi Net, ID                                                     1
-VTDC-AS-VN Vietel - CHT Compamy Ltd, VN                                                          1
-TRIANGLESERVICES Triangle Services Limited., BD                                                  1
-EXCELL-AS Excellmedia, IN                                                                        1
-TNM, MW                                                                                          1
-BETHNET-CC, ZA                                                                                   1
-APL-AS-AP AirMax Private Limited, PK                                                             1
-ERX-KUENTOS-AS Guam Cablevision, LLC., GU                                                        1
-CROSSONNET-AS-KR Cross On Net Inc., KR                                                           1
-INFINIVAN-AS-AP Infinivan Incorporated, PH                                                       1
-IDNIC-UMPURWOKERTO-AS-ID Universitas Muhammadiyah Purwokerto, ID                                 1
-CLEAR-ACCESS, ZA                                                                                 1
-JCV Joetsu Cable Vision, JP                                                                      1
-NETPLUS-AS Netplus Broadband Services Private Limited, IN                                        1
-GFIBER-AS Fiberlink Communication Pvt. Ltd., IN                                                  1
-MEKONGNET-ADC-AS-AP ANGKOR DATA COMMUNICATION, KH                                                1
-JLM-AS-ID PT Jala Lintas Media, ID                                                               1
-PACENET-AS Broadband Pacenet Pvt. Ltd, IN                                                        1
-PDNPL-AS Protoact Digital Network Pvt. Ltd., IN                                                  1
-MIL-AS-AP Manor IT Ltd, BD                                                                       1
-PROMPTIC-AS Prompt Infracom Private Limited, IN                                                  1
-YISUCLOUDLTD-AS-AP YISU CLOUD LTD, HK                                                            1
-Timeless-Network-Services-AS, NG                                                                 1
-DEN-ISP-AS-IN-AP Den Digital Entertainment Pvt. Ltd. AS ISP india, IN                            1
-SKI-AS-ID PT SUMBER KONEKSI INDOTELEMATIKA, ID                                                   1
-SKBMIL SK Broadband Co Ltd, KR                                                                   1
-FCN-AS-AP Fast Cyber Network, BD                                                                 1
-BOU-AS-AP Bangladesh Open University, BD                                                         1
-IDNIC-DKISCRB-AS-ID Dinas Komunikasi Informatika dan Statistik Kota Cirebon, ID                  1
-ARKCOM-AS-IN Arkcom Telecommunications Pvt Ltd., IN                                              1
-ATBROADB-AS AT Broadband Pvt Ltd, IN                                                             1
-SKB-H-AS-KR SK Broadband Co Ltd, KR                                                              1
-KUTCHTELELINK-AS-IN Kutch Telelink Private Limited, IN                                           1
-GSLNETWORKS-AS-AP GSL Networks Pty LTD, AU                                                       1
-GITI-AS-AP GENIUS IT, BD                                                                         1
-IDNIC-CLOUDTEKNOLOGI-AS-ID Cloud Teknologi Nusantara .CV, ID                                     1
-SAONLINE-AS-AP SA Online, BD                                                                     1
-MEGASURF-WIRELESS-INTERNET, ZA                                                                   1
-WATEENTEL-AS-AP Wateen Telecom (Pvt.) Ltd., PK                                                   1
-ALIENDNS-AS Alien Dns Pvt Ltd, IN                                                                1
-IDNIC-SI-PRIMA-AS-ID PT Solusi Inforindo Prima, ID                                               1
-PTPL-AS-IN Paradise Telecom Pvt Ltd, IN                                                          1
-HCLC-AS-KR purplestones, KR                                                                      1
-Net-Solutions, TZ                                                                                1
-WEBWERKS-AS Web Werks India Pvt Ltd, IN                                                          1
-SIQESPL-AS-AP SHASS INFORMATION & QUALITY ENGINEERING SERVICES PVT LTD, IN                       1
-DIGICON-ISP-AS Digicon Telecommunication Ltd, BD                                                 1
-FBSPL-AS-IN Fastnet Broadband Services, IN                                                       1
-CATLA-AS-IN Catla IT and Engg.Co.Pvt.Ltd., IN                                                    1
-EGMCL-AS-AP Dinesh Gopi Virwani, BD                                                              1
-IPSERVERONE-AS-AP IP ServerOne Solutions Sdn Bhd, MY                                             1
-ENTERPRISE1-AS-AP Parvez Ahmed, BD                                                               1
-WTTX-Communications-AS, ZA                                                                       1
-TDS-AS-ID Telemedia Dinamika Sarana, PT, ID                                                      1
-Stature-PTY-LTD, BW                                                                              1
-NETEY-AS-AP Netey Networks LLC, HK                                                               1
-STPLABAD-AS Sahjanand Telecom Pvt Ltd, IN                                                        1
-KIXS-AS-KR Korea Telecom, KR                                                                     1
-HOST-AS-AP Host Universal Pty Ltd, AU                                                            1
-FAJAR-AS-ID PT Fajar Techno System, ID                                                           1
-MCCLI-ARTELCO, US                                                                                1
-CYBER_CLOUD_SHIELD-AS CYBER CLOUD SHIELD BROADBAND SERVICES PRIVATE LIMITED, IN                  1
-AIRFIBER-AS AirFiber Networks Pvt Ltd, IN                                                        1
-VMHAUSLIMITED-AS-AP VMHaus Limited, GB                                                           1
-MWN-AS-ID PT Master Web Network, ID                                                              1
-IDNIC-CLOUD-INDO-AS-ID PT MITRA VISIONER PRATAMA, ID                                             1
-AIRNETNETWORKS-AS-IN Airnet Cable And Datacom Pvt Ltd, IN                                        1
-SRCOMM-AS-AP SR Communication, BD                                                                1
-HANCOMNET-AS HANSOFT, INC., KR                                                                   1
-SPEEDKNG-AS Speedking Infotech Pvt. Ltd., IN                                                     1
-E-CATV EHIME CATV CO.,LTD., JP                                                                   1
-Skyfi-Internet-Solutions, ZA                                                                     1
-KINEZ-AS-ID PT. KINEZ CREATIVE SOLUTIONS, ID                                                     1
-Level7-AS, ZA                                                                                    1
-STCN STNet, Incorporated, JP                                                                     1
-ADCDATACOM-AS-AP ADCDATA.COM, HK                                                                 1
-NEERJA-AS-AP Neerja Softwares Pvt Ltd, IN                                                        1
-STACKBIT-AS-AP Evergreen Internet, IN                                                            1
-NODE1-AS-AP NODE1 Pty Ltd, AU                                                                    1
-BSMRAUNI-AS-AP Bangabandhu Sheikh Mujibur Rahman Agricultural University, BD                     1
-FORKNETWORKING, US                                                                               1
-BI-AS-AP Internet Services, AU                                                                   1
-TUJUHDELAPANSEMBILANNET-AS-ID PT. TUJUH DELAPAN SEMBILAN NET, ID                                 1
-KCAT-AS-AP KCAT, PH                                                                              1
-WOWNET-AS-ID PT. Wowrack Cepat Teknologi Nusantara, ID                                           1
-SHREENET-AS SHREENET, IN                                                                         1
-TAIWANMOBILE-AS Taiwan Mobile Co., Ltd., TW                                                      1
-RAGLOBAL-AS-IN Global Ra Net Services Pvt. Ltd., IN                                              1
-ASIAPACIFICCOMMUNICATIONLIMITED-AS-AP Asia Pacific Communication Limited, BD                     1
-PIRANHA-AS-KR Piranha Systems, KR                                                                1
-Surf4Life, ZA                                                                                    1
-SMSNET-AS-ID PT. Sumatra Multimedia Solusi, ID                                                   1
-MYHSB-AS High Speed Broadband, IN                                                                1
-UIU-AS-AP United International University, BD                                                    1
-Force-Telecoms-AS, ZA                                                                            1
-DMBPL-AS-IN D M Broadband, IN                                                                    1
-E-CELL-AS-AP E-CELL, BD                                                                          1
-ASIX-AS-AP Asix, AF                                                                              1
-KWIKZO-AS KWIKZO.Com Technology Private Limited, IN                                              1
-BEACON Shanxi Beacon Cloudscape, CN                                                              1
-AEV-AS-AP ABOITIZ EQUITY VENTURES INC., PH                                                       1
-IDNIC-VISIONET-AS-ID PT Visionet Data Internasional, ID                                          1
-MEGADATA-AS-ID PT. MEGA ARTHA LINTAS DATA, ID                                                    1
-KSYUNGLOBAL-AS-AP Kingsoft cloud corporation limited, HK                                         1
-PTPNET-AS-ID PT. Perdana Teknologi Persada, ID                                                   1
-BYTEL-AS Bytel Tranet Private Limited, IN                                                        1
-IFRA-AS-AP IFRA NETWORK, BD                                                                      1
-WORLD-AS World Star Communication, IN                                                            1
-Capricom-AS, ZA                                                                                  1
-GNS-AS-AP Gazipur Network System, BD                                                             1
-CARL-NET Carl International Information ltd., TW                                                 1
-UNIFIEDLAYER-AS-1, US                                                                            1
-DOON2018-AS Doonbroadband Private Limited, IN                                                    1
-POKHARA-AS-AP Pokhara Internet Pvt. Ltd., NP                                                     1
-NETBEATS-AS-AP Netbeats Infoway Pvt. Ltd., IN                                                    1
-IDNIC-CITRAHOST-ID PT CITRAWEB DIGITAL MULTISOLUSI, ID                                           1
-GMDP-AS-ID PT.Global Media Data Prima, ID                                                        1
-SKYNTPL-AS-AP Skylink Fibernet Private Limited, IN                                               1
-US-TELEPACIFIC, US                                                                               1
-WEST263GO-HK West263 International Limited, HK                                                   1
-VDT-AS, NG                                                                                       1
-EMTEL-AS-AP, MU                                                                                  1
-ANGOLA-CABLES, AO                                                                                1
-SPEDSTER-AS Speedster Communications Pvt. Ltd., IN                                               1
-CNBTV-AS-KR LG HelloVision Corp., KR                                                             1
-SMARTNET16-AS SMART NET INDIA PVT LTD, IN                                                        1
-GMAX-AS-IN G-max It Services Private Limited, IN                                                 1
-SIAQES-AS-AP SHASS INFORMATION AND QUALITY ENGINEERING SERVICES, IN                              1
-MULTIFI-AS Multicraft Digital Technologies Private Limited, IN                                   1
-SUNIWAY1-AS-AP SUNIWAY GROUP LIMITED, HK                                                         1
-NEWBANGLASPEED-AS-AP Mohammad Yousuf, BD                                                         1
-GLOBAL-AS Teleglobal Communications Pvt Ltd, IN                                                  1
-CONNECTIVIST-AS-ID PT Solusi Prima Connectivist, ID                                              1
-IDNIC-POLIJE-AS-ID Politeknik Negeri Jember, ID                                                  1
-PREFIXNET-AS-AP Prefixnet, BD                                                                    1
-PHOENIX-AS Phoenix Internet Pvt Ltd, IN                                                          1
-CABLECONNECT1-AS-AP Cableconnect Co.,Ltd, TH                                                     1
-Maas-Computers-and-Networks-AS, TZ                                                               1
-NBPAP-AS-AP NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD., SG                                   1
-IDNIC-KOMINFO-SERANG-KOTA-AS-ID DINAS KOMUNIKASI DAN INFORMATIKA KOTA SERANG, ID                 1
-STREAMON-AS-IN Streamonn Internet Services Private Limited, IN                                   1
-BDHUB-BD bdHUB Limited, BD                                                                       1
-AMAZON-02, US                                                                                    1
-IDNIC-GNET-AS-ID PT Globalnet Multi Data, ID                                                     1
-TIPLH-AS Tri Infotech Pvt. Ltd, IN                                                               1
-IMC-AS-AP Abu Sayeem Siddique, BD                                                                1
-PDU-AS-ID PT. PANCA DUTA UTAMA, ID                                                               1
-X-LINKBD-AS-AP X-LINK LIMITED, BD                                                                1
-SPEEDNET-AS-AP SpeedNet, BD                                                                      1
-DMPISPL-AS Dmp Internet Services Private Limited, IN                                             1
-OLIVERSOFT, CD                                                                                   1
-WEBNX, US                                                                                        1
-GAZON-AS-IN Gazon Communications India Limited, IN                                               1
-GDSNET GDS CHANGAN SERVICES Ltd., CN                                                             1
-BHUIYANTELECOM-AS-AP Md Golam Kibria, BD                                                         1
-ALLIED-AS Allied It Infrastructure And Services Pvt Ltd, IN                                      1
-EASYNET1-AS-AP Easy Net, BD                                                                      1
-IN2CABLE-AP AS Number of Indusind Media and communication Ltd., IN                               1
-TOUCHNET-TELECOMMUNICATIONS-AS, ZA                                                               1
-MNNT-AS-AP M/S. New Noman Traders, BD                                                            1
-ORANGE, CM                                                                                       1
-MAMMOTHMEDIA-AS-AP Mammoth Media Pty Ltd, AU                                                     1
-IHL-AS-AP Internet @ Home Limited, BD                                                            1
-EBONE1-PK Ebone Network (PVT.) Limited, PK                                                       1
-LLKIT-AS-AP Zhengzhou Lulinke Information Technology CO.Ltd., CN                                 1
-ANET-AS A-net Communication India Pvt.ltd, IN                                                    1
-FALCONLINK1-AS-AP Shamsuzzaman Mamun, BD                                                         1
-Amtel-AS, SO                                                                                     1
-IDNIC-DISKOMPROVJABAR-AS-ID Dinas Komunikasi Provins Jawa Barat, ID                              1
-TH-AS-AP Tianhai InfoTech, CN                                                                    1
-EXPL-AS-IN ETHERNET XPRESS PVT. LTD., IN                                                         1
-PRACNETW-AS Praction Networks Pvt Ltd, IN                                                        1
-Yappingo-AS, NG                                                                                  1
-IDNIC-PHINISI-MEDIA-INDONESIA-AS-ID PT Phinisi Media Indonesia, ID                               1
-INETFIB-AS-IN INET FIBER PVT LTD, IN                                                             1
-BEON-AS-ID PT. Beon Intermedia, ID                                                               1
-Swift-Connect, ZA                                                                                1
-HAMILTON-TELECOM-AS, UG                                                                          1
-SERVER-GROUP-AS-AP HiFiServer Technologies Datacenter (Server Group), BD                         1
-LOGINMEPVTLTD-AS-AP Login.Me (Pvt) Ltd, PK                                                       1
-YONSEI-AS-KR Yonsei University, KR                                                               1
-ASLINE-AS-AP ASLINE LIMITED, HK                                                                  1
-CDNETWORKS-AS-KR CDNetworks, KR                                                                  1
-ISI-AS, US                                                                                       1
-GPSCPL-AS Gps Connections Pvt Ltd, IN                                                            1
-CITYNETR-AS Ruhban Telecommunication Private Limited, IN                                         1
-IKGCL-AS-AP Internet Keeper Global (Group) Co., Limited, HK                                      1
-LAPSCL-AS-AP Lao Asia Pacific Satellite Co., Ltd., LA                                            1
-EASY4NET-AS-IN Easy Solutions Internet Services Pvt Ltd, IN                                      1
-NAPINFO-AS-AP PT. NAP Info Lintas Nusa, ID                                                       1
-CONNECTEL-PK 141-143 Maulana Shaukat Ali Road, PK                                                1
-TOT-IDC-AS-AP Internet Data Center Service, TH                                                   1
-SENSE-AS-IN Sense Connect It Pvt Ltd, IN                                                         1
-Web4Africa, ZA                                                                                   1
-SUPERDATA-AS-VN SUPERDATA-, VN                                                                   1
-DLISPL-AS Dm Lot Infotech Solutions Private Limited, IN                                          1
-UNRI-AS-ID UNIVERSITAS RIAU, ID                                                                  1
-GNPLISP-AS Greenworld Netcast Private Limited, IN                                                1
-TIMOR-TELECOM-AS-AP Timor Telecom, SA, TL                                                        1
-SWIN-AS-ID PT. Sewiwi Indonesia, ID                                                              1
-AFTABNAGAR-AS-AP AFTAB NAGAR ONLINE SERVICE (ANOS), BD                                           1
-GIGSGIGSCLOUD-AS-AP GigsGigs Network Services, HK                                                1
-SURROUND-AS Surround Networks Pvt Ltd, IN                                                        1
-Brainshare-Technologies-AS, NG                                                                   1
-IKGUL-26484, US                                                                                  1
-IPNETCOM-AS-IN IPNET COMMUNICATIONS, IN                                                          1
-ARTAMEDIANET-AS-ID PT. ARTAMEDIA CITRA TELEMATIKA INDONESIA, ID                                  1
-WINUXC-AS Winux Communications Pvt. Ltd., IN                                                     1
-SKYLINE-AS-ID Skyline Semesta, PT, ID                                                            1
-NAVKAR-AS-IN Navkar Netsol Private Ltd, IN                                                       1
-ITEC-COMMS, ZA                                                                                   1
-SKYSYSTEMSLTD-AS-AP SKY SYSTEMS LTD, BD                                                          1
-JINOM-AS-ID PT. Jinom Network indonesia, ID                                                      1
-NGCOM, NG                                                                                        1
-INPL-IN-AP Ishan_s Network, IN                                                                   1
-SOLUSINET-AS-ID PT iForte Global Internet, ID                                                    1
-RAINBOW-HK Rainbow network limited, HK                                                           1
-VOXDXB-AS-IN Voxterria Innovations Private Limited, IN                                           1
-CHINATELECOM-TIANJIN Tianjij,300000, CN                                                          1
-SEFARO-AS Sefaro Networks Private Limited, IN                                                    1
-KEWIKONET-AS-AP Kewiko LLC, MN                                                                   1
+HINET Data Communication Business Group, TW                                                3109
+TOT-NET TOT Public Company Limited, TH                                                      816
+CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN                                        812
+FPT-AS-AP The Corporation for Financing & Promoting Technology, VN                          634
+CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                 542
+HKTIMS-AP HKT Limited, HK                                                                   187
+SKB-AS SK Broadband Co Ltd, KR                                                              178
+CHINANET-SH-AP China Telecom (Group), CN                                                    159
+UUNET, US                                                                                   143
+ASN-TELSTRA Telstra Corporation Ltd, AU                                                      95
+CNIX-AP China Networks Inter-Exchange, CN                                                    75
+TMNET-AS-AP TM Net, Internet Service Provider, MY                                            70
+CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN                            62
+LGDACOM LG DACOM Corporation, KR                                                             58
+CHINANET-IDC-BJ-AP IDC, China Telecommunications Corporation, CN                             47
+TACHYON-AS-ID PT Remala Abadi, ID                                                            44
+CMCTELECOM-AS-VN CMC Telecom Infrastructure Company, VN                                      43
+EIRTEL-AS-AP Eirtel Services Ltd., BD                                                        36
+RAYA-AS, EG                                                                                  33
+TOT-LLI-AS-AP TOT Public Company Limited, TH                                                 33
+NA                                                                                           32
+SIS-AS-AP Star Internet Service, BD                                                          29
+DVOIS-IN D-Vois Broadband Pvt Ltd, IN                                                        26
+VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                                    26
+COOL-IDEAS, ZA                                                                               24
+TE-AS TE-AS, EG                                                                              23
+SATLINKPVTLTD-AS-AP SatLink Pvt Ltd, MV                                                      22
+PROGOTIIT-AS-AP Mohammad Shahajahan, BD                                                      22
+JENNY-INTERNET, ZA                                                                           21
+TIKONAIN-AS Tikona Infinet Ltd., IN                                                          20
+ZUBAIRITEXPERT-AS-AP MD ZUBAIR ISLAM t/a ZUBAIR IT EXPERT, BD                                20
+IDNIC-DISKOMINFOKLATEN-AS-ID DISKOMINFO KLATEN, ID                                           19
+MauritiusTelecom, MU                                                                         18
+VODAFONE-AS-AP Vodafone Australia Pty Ltd, AU                                                17
+Afrihost, ZA                                                                                 16
+SHANGTEL-AS-ID PT Shangkuriang Telekomunikasi Indonesia, ID                                  16
+HKKFGL-AS-AP HK Kwaifong Group Limited, HK                                                   15
+ASN-CBNBROADBAND PT. Cyberindo Aditama, ID                                                   15
+ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                              15
+CHINA169-BJ China Unicom Beijing Province Network, CN                                        14
+IDNIC-KOMINFOTANGSEL-AS-ID DISKOMINFO TANGERANG SELATAN, ID                                  14
+AMAZON-AES, US                                                                               14
+ICT-AS-ID PT. Intranusa Core Teknologi, ID                                                   13
+CHINATELECOM-CTCLOUD Cloud Computing Corporation, CN                                         12
+STARHUB-NGNBN Starhub Ltd, SG                                                                12
+MPX-AS Microplex PTY LTD, AU                                                                 12
+ASDETUK http://www.heficed.com, GB                                                           12
+HKBNES-AS-AP HKBN Enterprise Solutions HK Limited, HK                                        12
+GIGABIT-MY Gigabit Hosting Sdn Bhd, MY                                                       11
+WORLDVIS-AS-IN World Vision Networks Private Limited, IN                                     11
+NAYATEL-PK Nayatel (Pvt) Ltd, PK                                                             11
+CHINATELECOM-HENAN-LUOYANG-IDC Luoyang, Henan Province, P.R.China., CN                       10
+SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd, MY                                            10
+OPTAGE OPTAGE Inc., JP                                                                        9
+SA-Domain-InternetServices, ZA                                                                9
+IDNIC-POLTEKKESYK-AS-ID POLTEKKES KEMENKES YOGYAKARTA, ID                                     8
+Vox-Telecom, ZA                                                                               8
+YANDEX, RU                                                                                    8
+CNM-AS-KR DLIVE, KR                                                                           8
+THINKDREAM-AS-AP ThinkDream Technology Limited, HK                                            8
+MICROSOFT-CORP-MSN-AS-BLOCK, US                                                               8
+SIFY-AS-IN Sify Limited, IN                                                                   8
+COLOMX-LLC, US                                                                                8
+ZEIMUDO-AS Zeimudo Networks autonomous system, SC                                             8
+GAYANET-AS-KR LG HelloVision Corp., KR                                                        7
+MYREPUBLIC-SG MyRepublic Ltd., SG                                                             7
+HCNSEOCHOCATV-AS-KR SEOCHO CABLE SYSTEMS CO., LTD., KR                                        6
+ANI89-AS-IN Ani Broadband Service Pvt Ltd, IN                                                 6
+Web-Africa-Networks-AS, ZA                                                                    6
+VOCUSGROUPNZ VocusGroup, NZ                                                                   6
+SRIVARI-AS Sri Vari Network Private Limited, IN                                               6
+ASMedi, MA                                                                                    6
+DREAMPLUS-AS-KR LG HelloVision Corp., KR                                                      6
+BCPL-SG BGPNET Global ASN, SG                                                                 6
+NETNCR-AS Netncr Technology Pvt. Ltd., IN                                                     6
+NETNAM-AS-AP Netnam Company, VN                                                               6
+CJHAEUNDAEGIJANG-AS-KR LG HelloVision Corp., KR                                               5
+CLASSIC-NP Classic Tech Pvt. Ltd., NP                                                         5
+TOPNET, TN                                                                                    5
+EKOWEB-AS-IN Ekowebtech It Services Pvt Ltd, IN                                               5
+Somtel-Somalia-AS, SO                                                                         5
+GIGANTIC-AS Gigantic Infotel Pvt Ltd, IN                                                      5
+CHINANET-SHAANXI-CLOUD-BASE CHINANET SHAANXI province Cloud Base network, CN                  5
+TTSCL-AS-AP TURBOTECH CO., LTD., KH                                                           5
+EASYHOST-HK EASYHOST SOLUTION LIMITED, HK                                                     5
+Areeba-Guinea-AS, GN                                                                          5
+AIRNET1-AS-AP Airnet Communications, BD                                                       5
+SSDTL-BD Systems Solutions & development Technologies Limited, BD                             5
+CAT-IDC-4BYTENET-AS-AP CAT TELECOM Public Company Ltd,CAT, TH                                 5
+CLOUDIE-AS-AP Cloudie Limited, HK                                                             4
+AOT-AS-AP Adel Online Technology, BD                                                          4
+ZSN Shanghai Chenyi Network Technology Co.,Ltd, CN                                            4
+CJCKN-AS-KR LG HelloVision Corp., KR                                                          4
+ILIS-AS-AP I Link Internet Service, BD                                                        4
+GARUDA-AS-ID PT. Garuda Media Telematika, ID                                                  4
+NISPLMTR-AS Navin Internet Services Pvt. Ltd., IN                                             4
+WITRIBE-AS-AP WITRIBE PAKISTAN LIMITED, PK                                                    4
+SREEJON-AS-AP Sreejon Online.Com, BD                                                          4
+EvoNet-AS, ZA                                                                                 4
+ESTOB-AS-AP Esto Broadband Private Limited, IN                                                4
+Somlink-Wireless-AS, SO                                                                       4
+ROYALCON-AS-IN Royal Connect Solutions Pvt Ltd, IN                                            4
+VNPT-AS-VN VNPT Corp, VN                                                                      4
+APEXNETCOMM-AS-IN Apex Netcom India Pvt. Ltd., IN                                             4
+SALTSYNC-AS-AP SALTSYNC, BD                                                                   4
+ELLFIBER-AS Ell Innovations Pvt Ltd, IN                                                       4
+GHANATEL-AS, GH                                                                               3
+MEGHBELA-IN MEGHBELA BROADBAND, IN                                                            3
+MNBL-TRANSIT-AS-AP MetroNet Bangladesh Limited, Fiber Optic Based Metropolitan Data, BD       3
+MAXTECH-AS Maxtech Broadband Pvt Ltd, IN                                                      3
+ELYZIUM-AS Elyzium Technologies Pvt. Ltd., IN                                                 3
+MINNALNW-AS Minnal Digital Network Private Limited, IN                                        3
+TPP-AS-PK Telenor Pakistan, PK                                                                3
+Internet-Solutions-, NG                                                                       3
+ERX-CERNET-BKB China Education and Research Network Center, CN                                3
+TRIPLE-AS Triple Play Broadband Services India Pvt Ltd, IN                                    3
+IDNIC-DINHUBKOMINFO-JATENG-AS-ID DINHUBKOMINFO PEMPROV. JAWA TENGAH, ID                       3
+INFOKOM-AS-ID PT Infokom Elektrindo, ID                                                       3
+PRB-AS-ID PT. PALAPA RING BARAT, ID                                                           3
+Paw-Paw-Wireless, ZA                                                                          3
+EBONE1-PK Ebone Network (PVT.) Limited, PK                                                    3
+CTGONLINE-AS-AP Chittagong Online Limited AS38592 AP, BD                                      3
+SYSN1234-AS-IN Sysnet Broadband Services Private Limited, IN                                  3
+CYBERNET-AP Cyber Internet Services (Pvt) Ltd., PK                                            3
+VIANET-NP Vianet Communications Pvt. Ltd., NP                                                 3
+KINXIDC-AS-KR KINX, KR                                                                        3
+BOOMINFOTECH-AS-AP Boom Info Tech (SMC-Pvt) Ltd, PK                                           3
+SINGTEL-FIBRE Singtel Fibre Broadband, SG                                                     3
+FAZNET-AS-ID PT Mitra Lintas Multimedia, ID                                                   3
+IPTELECOM-AP IPTELECOM ASIA, MY                                                               3
+GIGAPASS-AS-KR LG HelloVision Corp., KR                                                       3
+KYIT-AS-AP Kuaiyun Information Technology CO.Ltd., CN                                         3
+JDCOM Beijing Jingdong 360 Degree E-commerce Co., Ltd., CN                                    3
+ULTRAWA-AS-IN Ultrawave Internet Access Pvt Ltd, IN                                           3
+FRONTIER-FRTR, US                                                                             3
+Hero-Telecoms, ZA                                                                             3
+GTMH-AS-AP Golden TMH Telecom Co. Ltd, MM                                                     3
+VAINAVIINDUSTRIESLTD-IN VAINAVI INDUSTIES LTD, INTERNET SERVICE PROVIDER, INDIA, IN           3
+IAM-AS, MA                                                                                    3
+SOLIDTOOLSINC, US                                                                             3
+SISP-AS-IN Sanhati Infocom Services Private Limited, IN                                       3
+MATCORP-AS-AP M.A.T Co., Ltd., KH                                                             3
+NETMAGIC-AP Netmagic Datacenter Mumbai, IN                                                    3
+IDNIC-PEMPROVPAPUABARAT-AS-ID DINAS KOMINFO PEMDA PAPUA BARAT, ID                             3
+NEXTGENONLINE-AS-AP Nextgen Online, BD                                                        3
+JAMBONET, KE                                                                                  2
+LETABANETWORKS, ZA                                                                            2
+FCPL-AS-AP Firstlink Communications Pvt. Ltd., NP                                             2
+NBSP-AS Netmax Broadband Services, IN                                                         2
+BRAINPK-AS-AP Brain Telecommunication Ltd., PK                                                2
+AMARNETSYSTEM-AS-AP Amarnet System, BD                                                        2
+PEEREX-NET-AS-AP PEEREX NETWORKS LTD./IIG, BD                                                 2
+THREE-AS-ID Hutchison CP Telecommunications, PT, ID                                           2
+NETCONNECTWIFI-AS Net Connect Wifi Pvt Ltd, IN                                                2
+WANANCHI-, KE                                                                                 2
+GSLNETWORKS-AS-AP GSL Networks Pty LTD, AU                                                    2
+ATI-, TN                                                                                      2
+GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                       2
+CTRLS-AS-IN CtrlS Datacenters Ltd., IN                                                        2
+ARJUN-AS-IN Arjun Infotech, IN                                                                2
+GVA-Canalbox, BJ                                                                              2
+MITSOL, ZA                                                                                    2
+SAIX-NET, ZA                                                                                  2
+LEGENDS-CONNECT, ZA                                                                           2
+IDNIC-VERBIND-AS-ID PT. VERBIND INTERNET SOLUSINDO, ID                                        2
+ITACE-AS-AP Itace International Limited, HK                                                   2
+WiberSolutions-AS, ZA                                                                         2
+HSPNET-AS-ID PT Parsaoran Global Datatrans, ID                                                2
+HYPERNET-AS-ID PT. HIPERNET INDODATA, ID                                                      2
+SKYNETCHOWMUHANI-AS-AP SKYNET CHOWMUHANI, BD                                                  2
+ITSCOM its communications Inc., JP                                                            2
+NTPL-AS-AP Netze Technology Private Limited, PK                                               2
+TUNISIANA, TN                                                                                 2
+TPS-CN-AS Test platform Service Center, CN                                                    2
+APNETCOM-AS Ap Netcom Services, IN                                                            2
+STARNET-AS-ID PT. Cemerlang Multimedia, ID                                                    2
+ACCELERIT, ZA                                                                                 2
+SPEEDDIG-AS Speedmaxx Digital Networks Pvt Ltd, IN                                            2
+ANINETWORK-IN Ani Network Pvt Ltd, IN                                                         2
+PEGTECHINC, US                                                                                2
+GITGE, GQ                                                                                     2
+IDNIC-CLOUDATA-AS-ID PT. Cloudata Indonesia, ID                                               2
+ISSB-AS-AP INNET SOLUTIONS SDN BHD, MY                                                        2
+WEST263GO-HK West263 International Limited, HK                                                2
+AS-SNSISPL-IN Sns Internet Services Private Limited, IN                                       2
+ASKNETIN-AS-IN Asknet Internet Service, IN                                                    2
+ILNET-TELECOM, TD                                                                             2
+ALDM-ID PT. ARTHA LINTAS DATA MANDIRI, ID                                                     2
+OMSAI-AS Omsai Cable Systems India Pvt Ltd, IN                                                2
+Your-Communications, ZA                                                                       2
+KKON, NG                                                                                      2
+WINDSOR-AS Windsor Internet Private Limited, IN                                               2
+DNET-AS-IN Dnet E Solutions Pvt Ltd, IN                                                       2
+FPSTI-AS-AP Fil Products Service Television Incorporated, PH                                  2
+GCNCATV-AS-KR Gyounggidongbu cable tv co., Ltd., KR                                           2
+RSBI-AS Sharplink Wireless Solution Pvt Ltd, IN                                               2
+AIRDESIGNBROADCAST-AS Airdesign Broadcast Media Pvt Ltd, IN                                   2
+WSBPL-AS Webstar Broadband Private Limited, IN                                                2
+GIGALINE-AS Gigaline Teleservices Opc Private Limited, IN                                     2
+VIMITEL1-AS-IN Vimitel Network Pvt Ltd, IN                                                    2
+SIFI-AS-IN Sifi Online Pvt Ltd, IN                                                            2
+PLUSNETINC-AS-AP Plusnet Inc, BD                                                              2
+IIJ Internet Initiative Japan Inc., JP                                                        2
+SDI-AS-ID PT Sumber Data Indonesia, ID                                                        2
+TECHNOCORE-AS-AP cloudone, BD                                                                 2
+DISHAWAVESINFONET-AS DISHAWAVES INFONET PVT. LTD, IN                                          2
+STARHUB-INTERNET StarHub Ltd, SG                                                              2
+IDNIC-KOMINFOKABMGL-AS-ID DISKOMINFO Kab. Magelang, ID                                        2
+NEERJA-AS-AP Neerja Softwares Pvt Ltd, IN                                                     2
+Hammer-and-Tongues-AS, ZW                                                                     2
+WINGSNET-AS Wingsnet Internet Pvt. Ltd., IN                                                   2
+CIX-PH U506 Executive Bldg 369 G. Puyat Ave cor Makati Ave, PH                                2
+ICCNET-DHK-BD ICC Communication, BD                                                           2
+NETSEC-HK NETSEC, HK                                                                          2
+xneelo, ZA                                                                                    2
+ADSOTA-AS-VN Adsota Corporation, VN                                                           2
+Amtel-AS, SO                                                                                  1
+YONSEI-AS-KR Yonsei University, KR                                                            1
+SURROUND-AS Surround Networks Pvt Ltd, IN                                                     1
+CATLA-AS-IN Catla IT and Engg.Co.Pvt.Ltd., IN                                                 1
+PHOENIX-AS Phoenix Internet Pvt Ltd, IN                                                       1
+ENGTAC-AS-TH-AP Total Access Communication PLC., TH                                           1
+UNRI-AS-ID UNIVERSITAS RIAU, ID                                                               1
+ASIX-AS-AP Asix, AF                                                                           1
+FAJAR-AS-ID PT Fajar Techno System, ID                                                        1
+ORANGE, CM                                                                                    1
+SRCOMM-AS-AP SR Communication, BD                                                             1
+AMAZON-02, US                                                                                 1
+KSYUNGLOBAL-AS-AP Kingsoft cloud corporation limited, HK                                      1
+IHL-AS-AP Internet @ Home Limited, BD                                                         1
+US-TELEPACIFIC, US                                                                            1
+EGMCL-AS-AP Dinesh Gopi Virwani, BD                                                           1
+VDT-AS, NG                                                                                    1
+VODAFONE-IN Vodafone India Ltd., IN                                                           1
+WEBWERKS-AS Web Werks India Pvt Ltd, IN                                                       1
+EASY4NET-AS-IN Easy Solutions Internet Services Pvt Ltd, IN                                   1
+Skyfi-Internet-Solutions, ZA                                                                  1
+Yappingo-AS, NG                                                                               1
+RAGLOBAL-AS-IN Global Ra Net Services Pvt. Ltd., IN                                           1
+BHUIYANTELECOM-AS-AP Md Golam Kibria, BD                                                      1
+IDNIC-ISN-AS-ID PT. InfoMedia Solusi Net, ID                                                  1
+NETPLUS-AS Netplus Broadband Services Private Limited, IN                                     1
+SWIN-AS-ID PT. Sewiwi Indonesia, ID                                                           1
+FCN-AS-AP Fast Cyber Network, BD                                                              1
+E-CATV EHIME CATV CO.,LTD., JP                                                                1
+Brainshare-Technologies-AS, NG                                                                1
+GPSCPL-AS Gps Connections Pvt Ltd, IN                                                         1
+GFIBER-AS Fiberlink Communication Pvt. Ltd., IN                                               1
+NAVKAR-AS-IN Navkar Netsol Private Ltd, IN                                                    1
+STCN STNet, Incorporated, JP                                                                  1
+BYTEL-AS Bytel Tranet Private Limited, IN                                                     1
+UNIFIEDLAYER-AS-1, US                                                                         1
+IDNIC-SI-PRIMA-AS-ID PT Solusi Inforindo Prima, ID                                            1
+TOUCHNET-TELECOMMUNICATIONS-AS, ZA                                                            1
+GNPLISP-AS Greenworld Netcast Private Limited, IN                                             1
+EXCELL-AS Excellmedia, IN                                                                     1
+STPLABAD-AS Sahjanand Telecom Pvt Ltd, IN                                                     1
+E-CELL-AS-AP E-CELL, BD                                                                       1
+CROSSONNET-AS-KR Cross On Net Inc., KR                                                        1
+DMPISPL-AS Dmp Internet Services Private Limited, IN                                          1
+STACKBIT-AS-AP Evergreen Internet, IN                                                         1
+DMBPL-AS-IN D M Broadband, IN                                                                 1
+Avanti-AS, ZA                                                                                 1
+IKGCL-AS-AP Internet Keeper Global (Group) Co., Limited, HK                                   1
+LLKIT-AS-AP Zhengzhou Lulinke Information Technology CO.Ltd., CN                              1
+DEN-ISP-AS-IN-AP Den Digital Entertainment Pvt. Ltd. AS ISP india, IN                         1
+Maas-Computers-and-Networks-AS, TZ                                                            1
+Stature-PTY-LTD, BW                                                                           1
+GDSNET GDS CHANGAN SERVICES Ltd., CN                                                          1
+GIGSGIGSCLOUD-AS-AP GigsGigs Network Services, HK                                             1
+NEWBANGLASPEED-AS-AP Mohammad Yousuf, BD                                                      1
+IDNIC-PHINISI-MEDIA-INDONESIA-AS-ID PT Phinisi Media Indonesia, ID                            1
+SMSNET-AS-ID PT. Sumatra Multimedia Solusi, ID                                                1
+KEWIKONET-AS-AP Kewiko LLC, MN                                                                1
+SKYSYSTEMSLTD-AS-AP SKY SYSTEMS LTD, BD                                                       1
+ANET-AS A-net Communication India Pvt.ltd, IN                                                 1
+WIBRO-AS Wi-Bro Solutions Pvt. Ltd, IN                                                        1
+IFRA-AS-AP IFRA NETWORK, BD                                                                   1
+CNBTV-AS-KR LG HelloVision Corp., KR                                                          1
+PDU-AS-ID PT. PANCA DUTA UTAMA, ID                                                            1
+MIL-AS-AP Manor IT Ltd, BD                                                                    1
+NGCOM, NG                                                                                     1
+ANGOLA-CABLES, AO                                                                             1
+SEFARO-AS Sefaro Networks Private Limited, IN                                                 1
+Net-Solutions, TZ                                                                             1
+KUTCHTELELINK-AS-IN Kutch Telelink Private Limited, IN                                        1
+INFINIVAN-AS-AP Infinivan Incorporated, PH                                                    1
+TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                    1
+HANCOMNET-AS HANSOFT, INC., KR                                                                1
+IDNIC-KOMINFO-SERANG-KOTA-AS-ID DINAS KOMUNIKASI DAN INFORMATIKA KOTA SERANG, ID              1
+BI-AS-AP Internet Services, AU                                                                1
+GNS-AS-AP Gazipur Network System, BD                                                          1
+JLM-AS-ID PT Jala Lintas Media, ID                                                            1
+NAPINFO-AS-AP PT. NAP Info Lintas Nusa, ID                                                    1
+MAMMOTHMEDIA-AS-AP Mammoth Media Pty Ltd, AU                                                  1
+SADDAMHOSSAIN-AS-AP Saddam Hossain t/a Asian Network, BD                                      1
+SOLUSINET-AS-ID PT iForte Global Internet, ID                                                 1
+MCCLI-ARTELCO, US                                                                             1
+SPEDSTER-AS Speedster Communications Pvt. Ltd., IN                                            1
+IPSERVERONE-AS-AP IP ServerOne Solutions Sdn Bhd, MY                                          1
+WATEENTEL-AS-AP Wateen Telecom (Pvt.) Ltd., PK                                                1
+IDNIC-GNET-AS-ID PT Globalnet Multi Data, ID                                                  1
+SKYNTPL-AS-AP Skylink Fibernet Private Limited, IN                                            1
+X-LINKBD-AS-AP X-LINK LIMITED, BD                                                             1
+Surf4Life, ZA                                                                                 1
+GITI-AS-AP GENIUS IT, BD                                                                      1
+SPEEDKNG-AS Speedking Infotech Pvt. Ltd., IN                                                  1
+NHANHOA-AS-VN NhanHoa Software company, VN                                                    1
+DATAISP-AS Datagram Network India Pvt. Ltd., IN                                               1
+TUJUHDELAPANSEMBILANNET-AS-ID PT. TUJUH DELAPAN SEMBILAN NET, ID                              1
+IDNIC-DKISCRB-AS-ID Dinas Komunikasi Informatika dan Statistik Kota Cirebon, ID               1
+SKI-AS-ID PT SUMBER KONEKSI INDOTELEMATIKA, ID                                                1
+MULTIFI-AS Multicraft Digital Technologies Private Limited, IN                                1
+CLEAR-ACCESS, ZA                                                                              1
+Swift-Connect, ZA                                                                             1
+HOST-AS-AP Host Universal Pty Ltd, AU                                                         1
+DIGICON-ISP-AS Digicon Telecommunication Ltd, BD                                              1
+CMCL-AS-AP Chittagong multi channel limited, BD                                               1
+Force-Telecoms-AS, ZA                                                                         1
+ASIABRIDGETELECOM-AS-AP Asia Bridge Telecom, AF                                               1
+TIMOR-TELECOM-AS-AP Timor Telecom, SA, TL                                                     1
+SKB-H-AS-KR SK Broadband Co Ltd, KR                                                           1
+WORLD-AS World Star Communication, IN                                                         1
+AIRNETNETWORKS-AS-IN Airnet Cable And Datacom Pvt Ltd, IN                                     1
+IDNIC-POLIJE-AS-ID Politeknik Negeri Jember, ID                                               1
+SKBMIL SK Broadband Co Ltd, KR                                                                1
+MYREPUBLIC-AS-ID PT. Eka Mas Republik, ID                                                     1
+FIVENETWORK-AS-IN Five network Broadband Solution Pvt Ltd, IN                                 1
+GLOBAL-AS Teleglobal Communications Pvt Ltd, IN                                               1
+NODE1-AS-AP NODE1 Pty Ltd, AU                                                                 1
+SKYLINE-AS-ID Skyline Semesta, PT, ID                                                         1
+LOGINMEPVTLTD-AS-AP Login.Me (Pvt) Ltd, PK                                                    1
+BETHNET-CC, ZA                                                                                1
+Web4Africa, ZA                                                                                1
+WINUXC-AS Winux Communications Pvt. Ltd., IN                                                  1
+VMHAUSLIMITED-AS-AP VMHaus Limited, GB                                                        1
+Capricom-AS, ZA                                                                               1
+CONNECTIVIST-AS-ID PT Solusi Prima Connectivist, ID                                           1
+IDNIC-CLOUDTEKNOLOGI-AS-ID Cloud Teknologi Nusantara .CV, ID                                  1
+CYBER_CLOUD_SHIELD-AS CYBER CLOUD SHIELD BROADBAND SERVICES PRIVATE LIMITED, IN               1
+PIRANHA-AS-KR Piranha Systems, KR                                                             1
+SHREENET-AS SHREENET, IN                                                                      1
+IPNETCOM-AS-IN IPNET COMMUNICATIONS, IN                                                       1
+RAWAFED-LIBYA, LY                                                                             1
+NBPAP-AS-AP NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD., SG                                1
+MOBINIL, EG                                                                                   1
+IMC-AS-AP Abu Sayeem Siddique, BD                                                             1
+EASYNET1-AS-AP Easy Net, BD                                                                   1
+TH-AS-AP Tianhai InfoTech, CN                                                                 1
+SUNHK-DATA-AS-AP Sun Network (Hong Kong) Limited - HongKong Backbone, HK                      1
+IKGUL-26484, US                                                                               1
+PRACNETW-AS Praction Networks Pvt Ltd, IN                                                     1
+KWIKZO-AS KWIKZO.Com Technology Private Limited, IN                                           1
+ALIENDNS-AS Alien Dns Pvt Ltd, IN                                                             1
+MEGASURF-WIRELESS-INTERNET, ZA                                                                1
+HCLC-AS-KR purplestones, KR                                                                   1
+IN2CABLE-AP AS Number of Indusind Media and communication Ltd., IN                            1
+ASIAPACIFICCOMMUNICATIONLIMITED-AS-AP Asia Pacific Communication Limited, BD                  1
+CDNETWORKS-AS-KR CDNetworks, KR                                                               1
+GAZON-AS-IN Gazon Communications India Limited, IN                                            1
+AFTABNAGAR-AS-AP AFTAB NAGAR ONLINE SERVICE (ANOS), BD                                        1
+INPL-IN-AP Ishan_s Network, IN                                                                1
+CHINATELECOM-TIANJIN Tianjij,300000, CN                                                       1
+ADCDATACOM-AS-AP ADCDATA.COM, HK                                                              1
+GMAX-AS-IN G-max It Services Private Limited, IN                                              1
+SIAQES-AS-AP SHASS INFORMATION AND QUALITY ENGINEERING SERVICES, IN                           1
+ENTERPRISE1-AS-AP Parvez Ahmed, BD                                                            1
+TOT-IDC-AS-AP Internet Data Center Service, TH                                                1
+ARTAMEDIANET-AS-ID PT. ARTAMEDIA CITRA TELEMATIKA INDONESIA, ID                               1
+ISI-AS, US                                                                                    1
+CONNECTEL-PK 141-143 Maulana Shaukat Ali Road, PK                                             1
+IDNIC-VISIONET-AS-ID PT Visionet Data Internasional, ID                                       1
+Timeless-Network-Services-AS, NG                                                              1
+YISUCLOUDLTD-AS-AP YISU CLOUD LTD, HK                                                         1
+SUPERDATA-AS-VN SUPERDATA-, VN                                                                1
+INETFIB-AS-IN INET FIBER PVT LTD, IN                                                          1
+MYHSB-AS High Speed Broadband, IN                                                             1
+TAIWANMOBILE-AS Taiwan Mobile Co., Ltd., TW                                                   1
+PREFIXNET-AS-AP Prefixnet, BD                                                                 1
+KKNETWROK-AS-AP KK Networks (Pvt) Ltd., PK                                                    1
+MWN-AS-ID PT Master Web Network, ID                                                           1
+Level7-AS, ZA                                                                                 1
+RAINBOW-HK Rainbow network limited, HK                                                        1
+LAPSCL-AS-AP Lao Asia Pacific Satellite Co., Ltd., LA                                         1
+ITEC-COMMS, ZA                                                                                1
+FBSPL-AS-IN Fastnet Broadband Services, IN                                                    1
+UIU-AS-AP United International University, BD                                                 1
+TDS-AS-ID Telemedia Dinamika Sarana, PT, ID                                                   1
+ATBROADB-AS AT Broadband Pvt Ltd, IN                                                          1
+ERX-KUENTOS-AS Guam Cablevision, LLC., GU                                                     1
+UNICOM-NM-WULANCHABU-IDC UNICOM InnerMongolia province network, CN                            1
+BEACON Shanxi Beacon Cloudscape, CN                                                           1
+OLIVERSOFT, CD                                                                                1
+MEGADATA-AS-ID PT. MEGA ARTHA LINTAS DATA, ID                                                 1
+FORKNETWORKING, US                                                                            1
+BOU-AS-AP Bangladesh Open University, BD                                                      1
+WTTX-Communications-AS, ZA                                                                    1
+SMARTNET16-AS SMART NET INDIA PVT LTD, IN                                                     1
+BEON-AS-ID PT. Beon Intermedia, ID                                                            1
+KCAT-AS-AP KCAT, PH                                                                           1
+SENSE-AS-IN Sense Connect It Pvt Ltd, IN                                                      1
+ARKCOM-AS-IN Arkcom Telecommunications Pvt Ltd., IN                                           1
+WEBNX, US                                                                                     1
+NETBEATS-AS-AP Netbeats Infoway Pvt. Ltd., IN                                                 1
+VTDC-AS-VN Vietel - CHT Compamy Ltd, VN                                                       1
+FUS-AS-ID PT. Faasri Utama Sakti, ID                                                          1
+CARL-NET Carl International Information ltd., TW                                              1
+PACENET-AS Broadband Pacenet Pvt. Ltd, IN                                                     1
+TIPLH-AS Tri Infotech Pvt. Ltd, IN                                                            1
