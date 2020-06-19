@@ -1,77 +1,144 @@
-HINET Data Communication Business Group, TW                                     3669
-TOT-NET TOT Public Company Limited, TH                                           762
-CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN                             735
-FPT-AS-AP The Corporation for Financing & Promoting Technology, VN               671
-CHINANET-BACKBONE No.31,Jin-rong Street, CN                                      615
-HKTIMS-AP HKT Limited, HK                                                        193
-SKB-AS SK Broadband Co Ltd, KR                                                   182
-UUNET, US                                                                        150
-ASN-TELSTRA Telstra Corporation Ltd, AU                                           88
-CHINANET-SH-AP China Telecom (Group), CN                                          76
-TMNET-AS-AP TM Net, Internet Service Provider, MY                                 73
-CNIX-AP China Networks Inter-Exchange, CN                                         66
+HINET Data Communication Business Group, TW                                     3685
+CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN                             883
+TOT-NET TOT Public Company Limited, TH                                           789
+FPT-AS-AP The Corporation for Financing & Promoting Technology, VN               679
+CHINANET-BACKBONE No.31,Jin-rong Street, CN                                      604
+HKTIMS-AP HKT Limited, HK                                                        194
+SKB-AS SK Broadband Co Ltd, KR                                                   183
+CHINANET-SH-AP China Telecom (Group), CN                                         174
+UUNET, US                                                                        148
+ASN-TELSTRA Telstra Corporation Ltd, AU                                           91
+TMNET-AS-AP TM Net, Internet Service Provider, MY                                 72
+CNIX-AP China Networks Inter-Exchange, CN                                         68
+CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN                 63
 LGDACOM LG DACOM Corporation, KR                                                  63
-CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN                 62
-TACHYON-AS-ID PT Remala Abadi, ID                                                 46
-CHINANET-IDC-BJ-AP IDC, China Telecommunications Corporation, CN                  44
-TOT-LLI-AS-AP TOT Public Company Limited, TH                                      37
+TACHYON-AS-ID PT Remala Abadi, ID                                                 47
+CMCTELECOM-AS-VN CMC Telecom Infrastructure Company, VN                           42
+CHINANET-IDC-BJ-AP IDC, China Telecommunications Corporation, CN                  42
+RAYA-AS, EG                                                                       41
+TOT-LLI-AS-AP TOT Public Company Limited, TH                                      36
 DVOIS-IN D-Vois Broadband Pvt Ltd, IN                                             27
+COOL-IDEAS, ZA                                                                    24
 VODAFONE-AS-AP Vodafone Australia Pty Ltd, AU                                     21
-MPX-AS Microplex PTY LTD, AU                                                      17
+JENNY-INTERNET, ZA                                                                21
+MauritiusTelecom, MU                                                              18
+MPX-AS Microplex PTY LTD, AU                                                      18
 TIKONAIN-AS Tikona Infinet Ltd., IN                                               16
 AMAZON-AES, US                                                                    15
-ASN-CBNBROADBAND PT. Cyberindo Aditama, ID                                        14
-SIFY-AS-IN Sify Limited, IN                                                       12
+Afrihost, ZA                                                                      15
+ASN-CBNBROADBAND PT. Cyberindo Aditama, ID                                        15
+SIFY-AS-IN Sify Limited, IN                                                       13
+HKBNES-AS-AP HKBN Enterprise Solutions HK Limited, HK                             13
+CHINATELECOM-CTCLOUD Cloud Computing Corporation, CN                              13
+ASDETUK http://www.heficed.com, GB                                                12
 OPTAGE OPTAGE Inc., JP                                                            11
 CHINA169-BJ China Unicom Beijing Province Network, CN                             11
 STARHUB-NGNBN Starhub Ltd, SG                                                     11
+SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd, MY                                 10
 CHINATELECOM-HENAN-LUOYANG-IDC Luoyang, Henan Province, P.R.China., CN             9
-YANDEX, RU                                                                         8
+SA-Domain-InternetServices, ZA                                                     9
+NETNAM-AS-AP Netnam Company, VN                                                    9
 GAYANET-AS-KR LG HelloVision Corp., KR                                             8
 CNM-AS-KR DLIVE, KR                                                                8
+YANDEX, RU                                                                         8
 MYREPUBLIC-SG MyRepublic Ltd., SG                                                  7
+VOCUSGROUPNZ VocusGroup, NZ                                                        7
 BCPL-SG BGPNET Global ASN, SG                                                      7
-DREAMPLUS-AS-KR LG HelloVision Corp., KR                                           7
-ZSN Shanghai Chenyi Network Technology Co.,Ltd, CN                                 6
+DREAMPLUS-AS-KR LG HelloVision Corp., KR                                           6
 HCNSEOCHOCATV-AS-KR SEOCHO CABLE SYSTEMS CO., LTD., KR                             6
+Hammer-and-Tongues-AS, ZW                                                          6
+ZSN Shanghai Chenyi Network Technology Co.,Ltd, CN                                 6
 NAYATEL-PK Nayatel (Pvt) Ltd, PK                                                   6
+MICROSOFT-CORP-MSN-AS-BLOCK, US                                                    6
 CJHAEUNDAEGIJANG-AS-KR LG HelloVision Corp., KR                                    5
+Areeba-Guinea-AS, GN                                                               5
+TOPNET, TN                                                                         4
 CJCKN-AS-KR LG HelloVision Corp., KR                                               4
-CHINATELECOM-CTCLOUD Cloud Computing Corporation, CN                               4
-FRONTIER-FRTR, US                                                                  3
+TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                         3
 UNICOM-NM-WULANCHABU-IDC UNICOM InnerMongolia province network, CN                 3
+ASMedi, MA                                                                         3
+ILNET-TELECOM, TD                                                                  3
+NA                                                                                 3
+IIJ Internet Initiative Japan Inc., JP                                             3
+Internet-Solutions-, NG                                                            3
+Paw-Paw-Wireless, ZA                                                               3
+GIGAPASS-AS-KR LG HelloVision Corp., KR                                            3
+KINXIDC-AS-KR KINX, KR                                                             3
+GHANATEL-AS, GH                                                                    3
+EvoNet-AS, ZA                                                                      3
 SOLIDTOOLSINC, US                                                                  3
 CTGONLINE-AS-AP Chittagong Online Limited AS38592 AP, BD                           3
-GIGAPASS-AS-KR LG HelloVision Corp., KR                                            3
-IIJ Internet Initiative Japan Inc., JP                                             3
-KINXIDC-AS-KR KINX, KR                                                             3
-JDCOM Beijing Jingdong 360 Degree E-commerce Co., Ltd., CN                         2
-ITSCOM its communications Inc., JP                                                 2
+JDCOM Beijing Jingdong 360 Degree E-commerce Co., Ltd., CN                         3
+FRONTIER-FRTR, US                                                                  3
+Flash-Bay, KE                                                                      3
+xneelo, ZA                                                                         2
 STARHUB-INTERNET StarHub Ltd, SG                                                   2
-CHINANET-SHAANXI-CLOUD-BASE CHINANET SHAANXI province Cloud Base network, CN       2
+ITSCOM its communications Inc., JP                                                 2
+WiberSolutions-AS, ZA                                                              2
 GCNCATV-AS-KR Gyounggidongbu cable tv co., Ltd., KR                                2
-NBPAP-AS-AP NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD., SG                     2
-NA                                                                                 2
+FLEXNET-AS-KR flexnetworks, KR                                                     2
+SINGTEL-FIBRE Singtel Fibre Broadband, SG                                          2
+GITGE, GQ                                                                          2
+ACCELERIT, ZA                                                                      2
+WANANCHI-, KE                                                                      2
+LETABANETWORKS, ZA                                                                 2
+Level7-AS, ZA                                                                      2
+CHINANET-SHAANXI-CLOUD-BASE CHINANET SHAANXI province Cloud Base network, CN       2
+ERX-CERNET-BKB China Education and Research Network Center, CN                     2
+MITSOL, ZA                                                                         2
 AMAZON-02, US                                                                      2
-TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                         2
-NETPLUS-AS Netplus Broadband Services Private Limited, IN                          1
-US-TELEPACIFIC, US                                                                 1
-PACENET-AS Broadband Pacenet Pvt. Ltd, IN                                          1
-WLINCL-AS World-Link International, HK                                             1
-E-CATV EHIME CATV CO.,LTD., JP                                                     1
-BEON-AS-ID PT. Beon Intermedia, ID                                                 1
-SKB-H-AS-KR SK Broadband Co Ltd, KR                                                1
-TOT-IDC-AS-AP Internet Data Center Service, TH                                     1
-ENGTAC-AS-TH-AP Total Access Communication PLC., TH                                1
-FORKNETWORKING, US                                                                 1
-TH-AS-AP Tianhai InfoTech, CN                                                      1
-DIGITALPACIFIC-AU Digital Pacific Pty Ltd Australia, AU                            1
-ERX-CERNET-BKB China Education and Research Network Center, CN                     1
-STCN STNet, Incorporated, JP                                                       1
-PIRANHA-AS-KR Piranha Systems, KR                                                  1
-MCCLI-ARTELCO, US                                                                  1
-CNBTV-AS-KR LG HelloVision Corp., KR                                               1
-UNIVERSALNET-AS-ID PT. Universal Broadband, ID                                     1
+LEGENDS-CONNECT, ZA                                                                2
+NBPAP-AS-AP NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD., SG                     2
+ATI-, TN                                                                           2
+CYBERNET-AP Cyber Internet Services (Pvt) Ltd., PK                                 1
 CROSSONNET-AS-KR Cross On Net Inc., KR                                             1
-UNIFIEDLAYER-AS-1, US                                                              1
+UNIVERSALNET-AS-ID PT. Universal Broadband, ID                                     1
+UWBA-AS, ZA                                                                        1
+VDT-AS, NG                                                                         1
+CDNETWORKS-AS-KR CDNetworks, KR                                                    1
+BEON-AS-ID PT. Beon Intermedia, ID                                                 1
+WLINCL-AS World-Link International, HK                                             1
+Force-Telecoms-AS, ZA                                                              1
+Capricom-AS, ZA                                                                    1
+Surf4Life, ZA                                                                      1
+Fliber-Ltd, ZA                                                                     1
+GDSNET GDS CHANGAN SERVICES Ltd., CN                                               1
 YONSEI-AS-KR Yonsei University, KR                                                 1
+ANGOLA-CABLES, AO                                                                  1
+FORKNETWORKING, US                                                                 1
+OLIVERSOFT, CD                                                                     1
+TOUCHNET-TELECOMMUNICATIONS-AS, ZA                                                 1
+MCCLI-ARTELCO, US                                                                  1
+ORANGE, CM                                                                         1
+US-TELEPACIFIC, US                                                                 1
+RAINBOW-HK Rainbow network limited, HK                                             1
+SKB-H-AS-KR SK Broadband Co Ltd, KR                                                1
+Swift-Connect, ZA                                                                  1
+SOMTEL, SO                                                                         1
+Skyfi-Internet-Solutions, ZA                                                       1
+Reindos-Technologies, TD                                                           1
+CNBTV-AS-KR LG HelloVision Corp., KR                                               1
+ERX-KUENTOS-AS Guam Cablevision, LLC., GU                                          1
+TOT-IDC-AS-AP Internet Data Center Service, TH                                     1
+Internet-SA, ZA                                                                    1
+TH-AS-AP Tianhai InfoTech, CN                                                      1
+Timeless-Network-Services-AS, NG                                                   1
+TUNISIANA, TN                                                                      1
+HAMILTON-TELECOM-AS, UG                                                            1
+ISSB-AS-AP INNET SOLUTIONS SDN BHD, MY                                             1
+Yappingo-AS, NG                                                                    1
+PACENET-AS Broadband Pacenet Pvt. Ltd, IN                                          1
+BETHNET-CC, ZA                                                                     1
+Amtel-AS, SO                                                                       1
+ENGTAC-AS-TH-AP Total Access Communication PLC., TH                                1
+WTTX-Communications-AS, ZA                                                         1
+NETPLUS-AS Netplus Broadband Services Private Limited, IN                          1
+Wiselink-Broadband, ZA                                                             1
+MEGASURF-WIRELESS-INTERNET, ZA                                                     1
+DIGITALPACIFIC-AU Digital Pacific Pty Ltd Australia, AU                            1
+Stature-PTY-LTD, BW                                                                1
+E-CATV EHIME CATV CO.,LTD., JP                                                     1
+STCN STNet, Incorporated, JP                                                       1
+HCLC-AS-KR purplestones, KR                                                        1
+PIRANHA-AS-KR Piranha Systems, KR                                                  1
+UNIFIEDLAYER-AS-1, US                                                              1
