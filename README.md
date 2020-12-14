@@ -7,6 +7,9 @@ If you would like to use this in your own project let me know.
 
 Otherwise enjoy and checkout my other work
 
+# edit 14/12/2020 ... Added ...
+# SolarWinds has suffered a supply chain attack that allowed attacked to push the Sunburst Backdoor as an update to its Orion Platform. All domains and IP's that hacked Solarwinds servers are taking to. These lists are all observed hostnames for the DGA domain and any observed IPV4 or IPV6 address.
+
 
 [Paypal Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EV8XUGXX76UXQ&source=url)
 
