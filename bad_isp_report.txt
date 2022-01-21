@@ -19,7 +19,6 @@ RETHEMHOSTING, US                                                               
 NA                                                                                                                                      61
 CHINANET-IDC-GD China Telecom Group, CN                                                                                                 57
 UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                            54
-ASN-QUADRANET-GLOBAL, US                                                                                                                51
 MICROSOFT-CORP-MSN-AS-BLOCK, US                                                                                                         50
 LGDACOM LG DACOM Corporation, KR                                                                                                        50
 CEPATNET-AS-ID PT Mora Telematika Indonesia, ID                                                                                         50
@@ -31,6 +30,7 @@ ATT-INTERNET4, US                                                               
 AS-COLOCROSSING, US                                                                                                                     38
 ELXIREDATA-AS-IN ELXIRE DATA SERVICES PVT. LTD., IN                                                                                     38
 Hero-Telecoms, ZA                                                                                                                       36
+ASN-QUADRANET-GLOBAL, US                                                                                                                35
 ENETSOLS-AS-IN Dehradun Enet Solutions Private Ltd, IN                                                                                  35
 AS40676, US                                                                                                                             33
 SOLUSINET-AS-ID PT iForte Global Internet, ID                                                                                           32
