@@ -10,8 +10,8 @@ CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN               
 SKB-AS SK Broadband Co Ltd, KR                                                                                                          87
 UUNET, US                                                                                                                               86
 CLOUDIE-AS-AP Cloudie Limited, HK                                                                                                       85
-DIGITALOCEAN-ASN, US                                                                                                                    82
 FPT-AS-AP The Corporation for Financing & Promoting Technology, VN                                                                      72
+DIGITALOCEAN-ASN, US                                                                                                                    70
 NA                                                                                                                                      66
 GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                                                                 64
 CHINANET-IDC-GD China Telecom Group, CN                                                                                                 56
