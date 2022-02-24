@@ -102,21 +102,22 @@ TWC-20001-PACWEST, US                                                           
 MYREPUBLIC-AS-ID PT. Eka Mas Republik, ID                                                                                               13
                                                                                                                                         13
 FIVENETWORK-AS-IN Five network Broadband Solution Pvt Ltd, IN                                                                           13
+EKOWEB-AS-IN Ekowebtech It Services Pvt Ltd, IN                                                                                         12
 CHINATELECOM-CTCLOUD Cloud Computing Corporation, CN                                                                                    12
-ILIS-AS-AP I Link Internet Service, BD                                                                                                  12
+CIM-AS-ID PT CITRA INFOMEDIA, ID                                                                                                        12
 KISPL-AS-IN Kappa Internet Services Private Limited, IN                                                                                 12
 Tunisie-Telecom, TN                                                                                                                     12
 KVBPL-AS-IN Kerala Vision Broad Band Private Limited, IN                                                                                12
 RGTECHNOSOLUTIONS-AS R G TECHNOSOLUTIONS PVT LTD, IN                                                                                    12
 HOSRAJA-AS Ovi Hosting Pvt Ltd, IN                                                                                                      12
-GSLNETWORKS-AS-AP GSL Networks Pty LTD, AU                                                                                              12
+ILIS-AS-AP I Link Internet Service, BD                                                                                                  12
 KAOPU-HK Kaopu Cloud HK Limited, HK                                                                                                     12
+GSLNETWORKS-AS-AP GSL Networks Pty LTD, AU                                                                                              12
 VIETSERVER-AS-VN VIETSERVER SERVICES TECHNOLOGY COMPANY LIMITED, VN                                                                     12
-EKOWEB-AS-IN Ekowebtech It Services Pvt Ltd, IN                                                                                         12
-CIM-AS-ID PT CITRA INFOMEDIA, ID                                                                                                        12
-TLSOFT-AS-VN 8 Floor, 96-98 Dao Duy Anh, Phu Nhuan, HCMC, VN                                                                            11
-UFO-AS-AP UFO Network Limited, HK                                                                                                       11
 CHINATELECOM-FUJIAN-FUZHOU-IDC1 Fuzhou, CN                                                                                              11
+LAYER-HOST, US                                                                                                                          11
+UFO-AS-AP UFO Network Limited, HK                                                                                                       11
+TLSOFT-AS-VN 8 Floor, 96-98 Dao Duy Anh, Phu Nhuan, HCMC, VN                                                                            11
 SSDTL-BD Systems Solutions & development Technologies Limited, BD                                                                       11
 METROFIBRE-NETWORX, ZA                                                                                                                  11
 VHOST-AS-VN Viet Solutions Services Trading Company Limited, VN                                                                         11
@@ -131,7 +132,6 @@ EXCITEL-AS-IN Excitel Broadband Private Limited, IN                             
 AS-CHOOPA, US                                                                                                                           10
 COSMOPOLITAN1-AS-AP Cosmopolitan Communications Limited, BD                                                                             10
 INPL-IN-AP Ishans Network, IN                                                                                                           10
-LAYER-HOST, US                                                                                                                          10
 BESTTELNET-AS Best Telnet Services Private Limited, IN                                                                                  10
 CHINANET-JIANGSU-PROVINCE-IDC AS Number for CHINANET jiangsu province backbone, CN                                                      10
 ELYZIUM-AS Elyzium Technologies Pvt. Ltd., IN                                                                                           10
