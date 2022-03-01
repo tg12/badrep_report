@@ -1,7 +1,7 @@
 CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                             970
 TOT-NET TOT Public Company Limited, TH                                                                                                 176
+DIGITALOCEAN-ASN, US                                                                                                                   176
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                             176
-DIGITALOCEAN-ASN, US                                                                                                                   166
 HINET Data Communication Business Group, TW                                                                                            145
 VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                                                                              118
 CHINANET-SH-AP China Telecom Group, CN                                                                                                 113
