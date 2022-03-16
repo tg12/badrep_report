@@ -1,5 +1,6 @@
 TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                   918
 TOT-NET TOT Public Company Limited, TH                                                                                                 201
+DIGITALOCEAN-ASN, US                                                                                                                   181
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                             164
 HINET Data Communication Business Group, TW                                                                                            143
 VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                                                                              124
@@ -21,14 +22,13 @@ ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                 
 CEPATNET-AS-ID PT Mora Telematika Indonesia, ID                                                                                         47
 CNIX-AP China Networks Inter-Exchange, CN                                                                                               47
 CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                   45
-DIGITALOCEAN-ASN, US                                                                                                                    44
-IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID                                                                                  44
 HOST-AS-AP Host Universal Pty Ltd, AU                                                                                                   44
+IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID                                                                                  44
 LGDACOM LG DACOM Corporation, KR                                                                                                        42
 ELXIREDATA-AS-IN ELXIRE DATA SERVICES PVT. LTD., IN                                                                                     37
 ENETSOLS-AS-IN Dehradun Enet Solutions Private Ltd, IN                                                                                  36
-IPIP-CN Beijing Tiantexin Tech. Co., Ltd., CN                                                                                           33
 YISUCLOUDLTD-HK YISU CLOUD LTD, HK                                                                                                      33
+IPIP-CN Beijing Tiantexin Tech. Co., Ltd., CN                                                                                           33
 XIAONIAOYUN Shenzhen Qianhai bird cloud computing Co. Ltd., CN                                                                          32
 DVOIS-IN D-Vois Broadband Pvt Ltd, IN                                                                                                   31
 SOLUSINET-AS-ID PT iForte Global Internet, ID                                                                                           30
