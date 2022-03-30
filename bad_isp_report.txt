@@ -1,5 +1,6 @@
 TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                   892
 TOT-NET TOT Public Company Limited, TH                                                                                                 258
+DIGITALOCEAN-ASN, US                                                                                                                   182
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                             182
 HINET Data Communication Business Group, TW                                                                                            150
 VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                                                                              127
@@ -12,7 +13,6 @@ SKB-AS SK Broadband Co Ltd, KR                                                  
 ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                87
 UUNET, US                                                                                                                               83
 FPT-AS-AP FPT Telecom Company, VN                                                                                                       80
-DIGITALOCEAN-ASN, US                                                                                                                    74
 NA                                                                                                                                      67
 UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                            60
 GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                                                                 59
