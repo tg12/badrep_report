@@ -3,7 +3,7 @@ TOT-NET TOT Public Company Limited, TH                                          
 HINET Data Communication Business Group, TW                                                                                            158
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                             149
 Hero-Telecoms, ZA                                                                                                                      147
-DIGITALOCEAN-ASN, US                                                                                                                   145
+DIGITALOCEAN-ASN, US                                                                                                                   147
 VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                                                                              119
 CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN                                                                                   109
 CHINANET-SH-AP China Telecom Group, CN                                                                                                 103
