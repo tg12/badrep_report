@@ -15,9 +15,10 @@ ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                        
 UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                            67
 NA                                                                                                                                      65
 WEBICO-AS-VN Webico Company Limited, VN                                                                                                 63
+DIGITALOCEAN-ASN, US                                                                                                                    59
 CHINANET-IDC-GD China Telecom Group, CN                                                                                                 54
-GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                                                                 53
 HOST-AS-AP Host Universal Pty Ltd, AU                                                                                                   53
+GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                                                                 53
 IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID                                                                                  51
 FIVENETWORK-AS-IN Five network Broadband Solution Pvt Ltd, IN                                                                           50
 CNIX-AP China Networks Inter-Exchange, CN                                                                                               49
@@ -25,7 +26,6 @@ LGDACOM LG DACOM Corporation, KR                                                
 ASN-QUADRANET-GLOBAL, US                                                                                                                48
 ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                                                                         47
 CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                   46
-DIGITALOCEAN-ASN, US                                                                                                                    45
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                                 44
 CEPATNET-AS-ID PT Mora Telematika Indonesia, ID                                                                                         43
 XIAONIAOYUN Shenzhen Qianhai bird cloud computing Co. Ltd., CN                                                                          37
