@@ -11,7 +11,7 @@ Hero-Telecoms, ZA                                                               
 CLOUDIE-AS-AP Cloudie Limited, HK                                                                                                       84
 UUNET, US                                                                                                                               82
 NA                                                                                                                                      75
-DIGITALOCEAN-ASN, US                                                                                                                    68
+DIGITALOCEAN-ASN, US                                                                                                                    71
 FPT-AS-AP FPT Telecom Company, VN                                                                                                       67
 ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                60
 UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                            57
