@@ -3,8 +3,8 @@ TOT-NET TOT Public Company Limited, TH                                          
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                             161
 HINET Data Communication Business Group, TW                                                                                            149
 CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN                                                                                   134
-VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                                                                              121
 CHINANET-SH-AP China Telecom Group, CN                                                                                                 121
+VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                                                                              121
 SKB-AS SK Broadband Co Ltd, KR                                                                                                         111
 CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                             98
 Hero-Telecoms, ZA                                                                                                                       95
@@ -14,8 +14,9 @@ NA                                                                              
 FPT-AS-AP FPT Telecom Company, VN                                                                                                       73
 ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                66
 UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                            61
-CHINANET-IDC-GD China Telecom Group, CN                                                                                                 55
+DIGITALOCEAN-ASN, US                                                                                                                    58
 HOST-AS-AP Host Universal Pty Ltd, AU                                                                                                   55
+CHINANET-IDC-GD China Telecom Group, CN                                                                                                 55
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                                 53
 GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                                                                 51
 IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID                                                                                  50
@@ -24,37 +25,36 @@ ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                 
 LGDACOM LG DACOM Corporation, KR                                                                                                        45
 CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                   44
 CEPATNET-AS-ID PT Mora Telematika Indonesia, ID                                                                                         40
-XIAONIAOYUN Shenzhen Qianhai bird cloud computing Co. Ltd., CN                                                                          36
 YISUCLOUDLTD-HK YISU CLOUD LTD, HK                                                                                                      36
-ELXIREDATA-AS-IN ELXIRE DATA SERVICES PVT. LTD., IN                                                                                     35
+XIAONIAOYUN Shenzhen Qianhai bird cloud computing Co. Ltd., CN                                                                          36
 DVOIS-IN D-Vois Broadband Pvt Ltd, IN                                                                                                   35
+ELXIREDATA-AS-IN ELXIRE DATA SERVICES PVT. LTD., IN                                                                                     35
 ASN-QUADRANET-GLOBAL, US                                                                                                                30
 AGPL-AS-AP Apeiron Global Pvt. Ltd., IN                                                                                                 30
-CHINANET-LIAONING-DALIAN-MAN CHINANET Liaoning province Dalian MAN network, CN                                                          29
 ELITE-BD ELITE COMMUNICATION, BD                                                                                                        29
+CHINANET-LIAONING-DALIAN-MAN CHINANET Liaoning province Dalian MAN network, CN                                                          29
 CHINANET-IDC-BJ-AP IDC, China Telecommunications Corporation, CN                                                                        28
 HKTIMS-AP HKT Limited, HK                                                                                                               27
 TACHYON-AS-ID PT Remala Abadi, ID                                                                                                       26
 ASDETUK www.heficed.com, GB                                                                                                             24
 NATHOSTS-AS-AP Nathosts Limited, HK                                                                                                     24
 IDNIC-SIGMA-AS-ID PT. SIGMA CIPTA CARAKA, ID                                                                                            23
-NHANHOA-AS-VN NhanHoa Software company, VN                                                                                              22
 WORLD-AS World Star Communication, IN                                                                                                   22
 TOT-LLI-AS-AP TOT Public Company Limited, TH                                                                                            22
 VNPT-AS-VN VNPT Corp, VN                                                                                                                22
+NHANHOA-AS-VN NhanHoa Software company, VN                                                                                              22
 TMNET-AS-AP TM Net, Internet Service Provider, MY                                                                                       22
 WEBICO-AS-VN Webico Company Limited, VN                                                                                                 22
+CITYBROADBANDNETWORKPVTLTD-AS city broadband network pvt.ltd., IN                                                                       20
 EXABYTES-AS-AP Exa Bytes Network Sdn.Bhd., MY                                                                                           20
 BKNS-AS-VN Bach Kim Network solutions Join stock company, VN                                                                            20
-CITYBROADBANDNETWORKPVTLTD-AS city broadband network pvt.ltd., IN                                                                       20
 CTRLS-AS-IN CtrlS Datacenters Ltd., IN                                                                                                  19
 ZEN-ECN, US                                                                                                                             19
 HENGTONG-IDC-LLC, US                                                                                                                    19
-FIVENETWORK-AS-IN Five network Broadband Solution Pvt Ltd, IN                                                                           18
-DIGITALOCEAN-ASN, US                                                                                                                    18
+IPIP-CN Beijing Tiantexin Tech. Co., Ltd., CN                                                                                           18
 CMCTELECOM-AS-VN CMC Telecom Infrastructure Company, VN                                                                                 18
 PVTABNL-AS Allnet Broadband Network Pvt Ltd, IN                                                                                         18
-IPIP-CN Beijing Tiantexin Tech. Co., Ltd., CN                                                                                           18
+FIVENETWORK-AS-IN Five network Broadband Solution Pvt Ltd, IN                                                                           18
 IDNIC-KOMINFOTANGSEL-AS-ID DISKOMINFO TANGERANG SELATAN, ID                                                                             18
 HOSTROYALE, IN                                                                                                                          17
 FASTWAY-AS Fastway Transmission Private Limited, IN                                                                                     17
