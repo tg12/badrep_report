@@ -1,4 +1,5 @@
 TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                   808
+DIGITALOCEAN-ASN, US                                                                                                                   210
 TOT-NET TOT Public Company Limited, TH                                                                                                 200
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                             158
 HINET Data Communication Business Group, TW                                                                                            147
@@ -8,7 +9,6 @@ CHINANET-SH-AP China Telecom Group, CN                                          
 SKB-AS SK Broadband Co Ltd, KR                                                                                                         119
 CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                             98
 Hero-Telecoms, ZA                                                                                                                       95
-DIGITALOCEAN-ASN, US                                                                                                                    83
 UUNET, US                                                                                                                               78
 NA                                                                                                                                      75
 CLOUDIE-AS-AP Cloudie Limited, HK                                                                                                       75
