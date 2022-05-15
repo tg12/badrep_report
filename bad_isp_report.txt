@@ -8,7 +8,7 @@ CHINANET-SH-AP China Telecom Group, CN                                          
 SKB-AS SK Broadband Co Ltd, KR                                                                                                         119
 CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                             98
 Hero-Telecoms, ZA                                                                                                                       95
-DIGITALOCEAN-ASN, US                                                                                                                    78
+DIGITALOCEAN-ASN, US                                                                                                                    83
 UUNET, US                                                                                                                               78
 NA                                                                                                                                      75
 CLOUDIE-AS-AP Cloudie Limited, HK                                                                                                       75
