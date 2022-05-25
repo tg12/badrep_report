@@ -1,6 +1,7 @@
 TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                   778
 TOT-NET TOT Public Company Limited, TH                                                                                                 185
 HINET Data Communication Business Group, TW                                                                                            168
+DIGITALOCEAN-ASN, US                                                                                                                   167
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                             147
 CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN                                                                                   132
 CHINANET-SH-AP China Telecom Group, CN                                                                                                 120
@@ -8,7 +9,6 @@ VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                       
 SKB-AS SK Broadband Co Ltd, KR                                                                                                         103
 CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                            102
 Hero-Telecoms, ZA                                                                                                                       94
-DIGITALOCEAN-ASN, US                                                                                                                    82
 CLOUDIE-AS-AP Cloudie Limited, HK                                                                                                       77
 UUNET, US                                                                                                                               75
 NA                                                                                                                                      75
