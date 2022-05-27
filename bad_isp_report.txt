@@ -1,5 +1,4 @@
 TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                          781
-DIGITALOCEAN-ASN, US                                                                                                          207
 TOT-NET TOT Public Company Limited, TH                                                                                        186
 HINET Data Communication Business Group, TW                                                                                   165
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                    148
@@ -8,8 +7,9 @@ CHINANET-SH-AP China Telecom Group, CN                                          
 VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                                                                     114
 SKB-AS SK Broadband Co Ltd, KR                                                                                                108
 CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                   106
-Hero-Telecoms, ZA                                                                                                             100
 NA                                                                                                                            100
+Hero-Telecoms, ZA                                                                                                             100
+DIGITALOCEAN-ASN, US                                                                                                           94
 UUNET, US                                                                                                                      80
 CLOUDIE-AS-AP Cloudie Limited, HK                                                                                              76
 FPT-AS-AP FPT Telecom Company, VN                                                                                              71
