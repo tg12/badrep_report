@@ -8,7 +8,7 @@ SERVER-MANIA, CA                                                                
 CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN                                                                                          125
 HINET Data Communication Business Group, TW                                                                                                   117
 CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                         116
-PONYNET, US                                                                                                                                   102
+PONYNET, US                                                                                                                                    99
 Hero-Telecoms, ZA                                                                                                                              89
 NA                                                                                                                                             88
 CHINANET-SH-AP China Telecom Group, CN                                                                                                         83
