@@ -3,6 +3,7 @@ DIGITALOCEAN-ASN, US                                                            
 TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          396
 TOT-NET TOT Public Company Limited, TH                                                                                                        191
 SERVER-MANIA, CA                                                                                                                              132
+CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                         121
 CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN                                                                                          116
 HINET Data Communication Business Group, TW                                                                                                   112
 CHINANET-SH-AP China Telecom Group, CN                                                                                                         91
@@ -14,7 +15,6 @@ NA                                                                              
 SKB-AS SK Broadband Co Ltd, KR                                                                                                                 80
 LGDACOM LG DACOM Corporation, KR                                                                                                               74
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                                     71
-CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                          70
 MICROSOFT-CORP-MSN-AS-BLOCK, US                                                                                                                69
 ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                       69
 GOOGLE-CLOUD-PLATFORM, US                                                                                                                      64
@@ -43,16 +43,16 @@ IT7NET, CA                                                                      
 VNPT-AS-VN VNPT Corp, VN                                                                                                                       26
 BKNS-AS-VN Bach Kim Network solutions Join stock company, VN                                                                                   25
 LEASEWEB-NL-AMS-01 Netherlands, NL                                                                                                             23
-HOSTWINDS, US                                                                                                                                  22
 GIGABIT-MY Gigabit Hosting Sdn Bhd, MY                                                                                                         22
+HOSTWINDS, US                                                                                                                                  22
+TOT-LLI-AS-AP TOT Public Company Limited, TH                                                                                                   21
 AGPL-AS-AP Apeiron Global Pvt. Ltd., IN                                                                                                        21
 DACEN-2, US                                                                                                                                    21
-TOT-LLI-AS-AP TOT Public Company Limited, TH                                                                                                   21
 TFN-TW Taiwan Fixed Network, Telco and Network Service Provider., TW                                                                           20
 IDNIC-KOMINFOTANGSEL-AS-ID DISKOMINFO TANGERANG SELATAN, ID                                                                                    20
 NHANHOA-AS-VN NhanHoa Software company, VN                                                                                                     20
-CHINANET-SHANGHAI-MAN China Telecom Group, CN                                                                                                  19
 CLOUDFLARENET, US                                                                                                                              19
+CHINANET-SHANGHAI-MAN China Telecom Group, CN                                                                                                  19
 HENGTONG-IDC-LLC, US                                                                                                                           19
 XIAONIAOYUN Shenzhen Qianhai bird cloud computing Co. Ltd., CN                                                                                 18
 ELXIREDATA-AS-IN ELXIRE DATA SERVICES PVT. LTD., IN                                                                                            18
