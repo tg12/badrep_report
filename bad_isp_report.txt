@@ -1,5 +1,5 @@
 BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               479
-DIGITALOCEAN-ASN, US                                                                                                                          466
+DIGITALOCEAN-ASN, US                                                                                                                          457
 TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          396
 CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                   216
 TOT-NET TOT Public Company Limited, TH                                                                                                        191
