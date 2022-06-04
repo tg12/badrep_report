@@ -1,13 +1,13 @@
 DIGITALOCEAN-ASN, US                                                                                                                          467
 BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               456
 TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          405
-AS-COLOCROSSING, US                                                                                                                           226
 CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                   216
 TOT-NET TOT Public Company Limited, TH                                                                                                        184
 SERVER-MANIA, CA                                                                                                                              175
 CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                         124
 HINET Data Communication Business Group, TW                                                                                                   108
 CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN                                                                                          104
+AS-COLOCROSSING, US                                                                                                                           103
 Hero-Telecoms, ZA                                                                                                                              93
 VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                                                                                      89
 CHINANET-SH-AP China Telecom Group, CN                                                                                                         87
