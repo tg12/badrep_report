@@ -27,10 +27,9 @@ UUNET, US                                                                       
 ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                                                                                42
 AS-COLOCROSSING, US                                                                                                                            39
 ATT-INTERNET4, US                                                                                                                              38
-ASN-QUADRANET-GLOBAL, US                                                                                                                       36
 UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                                   36
+ASN-QUADRANET-GLOBAL, US                                                                                                                       36
 CEPATNET-AS-ID PT Mora Telematika Indonesia, ID                                                                                                33
-CT-GUANGZHOU-IDC CHINANET Guangdong province network, CN                                                                                       32
 IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID                                                                                         29
 ELITE-BD ELITE COMMUNICATION, BD                                                                                                               29
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                                        29
@@ -41,11 +40,12 @@ BKNS-AS-VN Bach Kim Network solutions Join stock company, VN                    
 IT7NET, CA                                                                                                                                     25
 HENGTONG-IDC-LLC, US                                                                                                                           24
 AS62904, US                                                                                                                                    24
-VNPT-AS-VN VNPT Corp, VN                                                                                                                       23
 GIGABIT-MY Gigabit Hosting Sdn Bhd, MY                                                                                                         23
-TOT-LLI-AS-AP TOT Public Company Limited, TH                                                                                                   22
+VNPT-AS-VN VNPT Corp, VN                                                                                                                       23
+CT-GUANGZHOU-IDC CHINANET Guangdong province network, CN                                                                                       22
 GOOGLE, US                                                                                                                                     22
 DACEN-2, US                                                                                                                                    22
+TOT-LLI-AS-AP TOT Public Company Limited, TH                                                                                                   22
 HOSTWINDS, US                                                                                                                                  21
 AGPL-AS-AP Apeiron Global Pvt. Ltd., IN                                                                                                        21
 CTRLS-AS-IN CtrlS Datacenters Ltd., IN                                                                                                         20
@@ -54,12 +54,12 @@ AS40676, US                                                                     
 IDNIC-KOMINFOTANGSEL-AS-ID DISKOMINFO TANGERANG SELATAN, ID                                                                                    18
 TFN-TW Taiwan Fixed Network, Telco and Network Service Provider., TW                                                                           18
 KPIN-AS-KR INet Technologies Co., Ltd., KR                                                                                                     17
-LINODE-AP Linode, LLC, US                                                                                                                      17
-ELXIREDATA-AS-IN ELXIRE DATA SERVICES PVT. LTD., IN                                                                                            17
 XIAONIAOYUN Shenzhen Qianhai bird cloud computing Co. Ltd., CN                                                                                 17
+ELXIREDATA-AS-IN ELXIRE DATA SERVICES PVT. LTD., IN                                                                                            17
 HOSTROYALE, IN                                                                                                                                 17
-JINX-AS-AP Jinx Co. Limited, HK                                                                                                                17
+LINODE-AP Linode, LLC, US                                                                                                                      17
 YISUCLOUDLTD-HK YISU CLOUD LTD, HK                                                                                                             17
+JINX-AS-AP Jinx Co. Limited, HK                                                                                                                17
 PVTABNL-AS Allnet Broadband Network Pvt Ltd, IN                                                                                                17
 CHINANET-IDC-GD China Telecom Group, CN                                                                                                        16
 CLOUDFLARENET, US                                                                                                                              16
