@@ -43,10 +43,10 @@ ASDETUK www.heficed.com, GB                                                     
 IT7NET, CA                                                                                                                                     23
 GIGABIT-MY Gigabit Hosting Sdn Bhd, MY                                                                                                         23
 HOSTWINDS, US                                                                                                                                  22
-AS40676, US                                                                                                                                    22
 CTRLS-AS-IN CtrlS Datacenters Ltd., IN                                                                                                         22
 PACKETEXCHANGE, SE                                                                                                                             21
 AGPL-AS-AP Apeiron Global Pvt. Ltd., IN                                                                                                        21
+AS40676, US                                                                                                                                    21
 TOT-LLI-AS-AP TOT Public Company Limited, TH                                                                                                   21
 DACEN-2, US                                                                                                                                    21
 IPIP-CN Beijing Tiantexin Tech. Co., Ltd., CN                                                                                                  20
