@@ -1,6 +1,6 @@
 BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               454
 DIGITALOCEAN-ASN, US                                                                                                                          419
-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          418
+TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          283
 TOT-NET TOT Public Company Limited, TH                                                                                                        167
 SERVER-MANIA, CA                                                                                                                              141
 HINET Data Communication Business Group, TW                                                                                                   115
@@ -13,9 +13,9 @@ GOOGLE-CLOUD-PLATFORM, US                                                       
 NA                                                                                                                                             76
 LGDACOM LG DACOM Corporation, KR                                                                                                               70
 MICROSOFT-CORP-MSN-AS-BLOCK, US                                                                                                                69
-CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                    67
 ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                       66
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                                     65
+CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                    65
 CHINANET-SH-AP China Telecom Group, CN                                                                                                         64
 CNIX-AP China Networks Inter-Exchange, CN                                                                                                      60
 FPT-AS-AP FPT Telecom Company, VN                                                                                                              55
