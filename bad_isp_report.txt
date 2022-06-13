@@ -1,6 +1,6 @@
+TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          441
 BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               433
 DIGITALOCEAN-ASN, US                                                                                                                          427
-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          367
 TOT-NET TOT Public Company Limited, TH                                                                                                        186
 SERVER-MANIA, CA                                                                                                                              128
 HINET Data Communication Business Group, TW                                                                                                   119
@@ -12,9 +12,9 @@ SKB-AS SK Broadband Co Ltd, KR                                                  
 MICROSOFT-CORP-MSN-AS-BLOCK, US                                                                                                                76
 LGDACOM LG DACOM Corporation, KR                                                                                                               75
 Hero-Telecoms, ZA                                                                                                                              74
+CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                    74
 NA                                                                                                                                             72
 ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                       69
-CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                    64
 CHINANET-SH-AP China Telecom Group, CN                                                                                                         62
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                                     61
 UUNET, US                                                                                                                                      56
@@ -22,8 +22,8 @@ CNIX-AP China Networks Inter-Exchange, CN                                       
 FPT-AS-AP FPT Telecom Company, VN                                                                                                              51
 CLOUDIE-AS-AP Cloudie Limited, HK                                                                                                              49
 HOST-AS-AP Host Universal Pty Ltd, AU                                                                                                          44
-GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                                                                        43
 ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                                                                                43
+GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                                                                        43
 ATT-INTERNET4, US                                                                                                                              39
 ASN-QUADRANET-GLOBAL, US                                                                                                                       38
 AS-COLOCROSSING, US                                                                                                                            37
@@ -32,19 +32,19 @@ CEPATNET-AS-ID PT Mora Telematika Indonesia, ID                                 
 CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                          34
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                                        31
 UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                                   30
-IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID                                                                                         29
 ELITE-BD ELITE COMMUNICATION, BD                                                                                                               29
+IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID                                                                                         29
+CABLELITE-AS-AP Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA, IN                                         26
 CHINANET-IDC-BJ-AP IDC, China Telecommunications Corporation, CN                                                                               26
 AS62904, US                                                                                                                                    26
-CABLELITE-AS-AP Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA, IN                                         26
 AGPL-AS-AP Apeiron Global Pvt. Ltd., IN                                                                                                        25
 HOSTWINDS, US                                                                                                                                  25
 BKNS-AS-VN Bach Kim Network solutions Join stock company, VN                                                                                   23
 VNPT-AS-VN VNPT Corp, VN                                                                                                                       22
+IT7NET, CA                                                                                                                                     22
 TOT-LLI-AS-AP TOT Public Company Limited, TH                                                                                                   22
 CTRLS-AS-IN CtrlS Datacenters Ltd., IN                                                                                                         22
 GIGABIT-MY Gigabit Hosting Sdn Bhd, MY                                                                                                         22
-IT7NET, CA                                                                                                                                     22
 DACEN-2, US                                                                                                                                    21
 TWC-20001-PACWEST, US                                                                                                                          21
 IPIP-CN Beijing Tiantexin Tech. Co., Ltd., CN                                                                                                  20
