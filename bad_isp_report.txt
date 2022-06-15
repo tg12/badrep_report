@@ -6,14 +6,13 @@ TOT-NET TOT Public Company Limited, TH                                          
 SERVER-MANIA, CA                                                                                                                              160
 CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                         132
 HINET Data Communication Business Group, TW                                                                                                   118
-AS-COLOCROSSING, US                                                                                                                           113
 CHINANET-SH-AP China Telecom Group, CN                                                                                                        100
 GOOGLE-CLOUD-PLATFORM, US                                                                                                                      97
 SKB-AS SK Broadband Co Ltd, KR                                                                                                                 96
 VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                                                                                      90
 PONYNET, US                                                                                                                                    87
-LGDACOM LG DACOM Corporation, KR                                                                                                               85
 MICROSOFT-CORP-MSN-AS-BLOCK, US                                                                                                                85
+LGDACOM LG DACOM Corporation, KR                                                                                                               85
 CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN                                                                                           82
 NA                                                                                                                                             72
 Hero-Telecoms, ZA                                                                                                                              71
@@ -23,10 +22,11 @@ UUNET, US                                                                       
 CNIX-AP China Networks Inter-Exchange, CN                                                                                                      59
 ASN-QUADRANET-GLOBAL, US                                                                                                                       58
 FPT-AS-AP FPT Telecom Company, VN                                                                                                              55
+AS-COLOCROSSING, US                                                                                                                            54
 CLOUDIE-AS-AP Cloudie Limited, HK                                                                                                              54
 UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                                   49
-HOST-AS-AP Host Universal Pty Ltd, AU                                                                                                          47
 ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                                                                                47
+HOST-AS-AP Host Universal Pty Ltd, AU                                                                                                          47
 ATT-INTERNET4, US                                                                                                                              45
 CT-GUANGZHOU-IDC CHINANET Guangdong province network, CN                                                                                       43
 GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                                                                        43
