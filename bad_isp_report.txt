@@ -2,11 +2,11 @@ TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN            
 DIGITALOCEAN-ASN, US                                                                                                                          461
 BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               438
 TOT-NET TOT Public Company Limited, TH                                                                                                        187
+CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                   140
 CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                         132
 SERVER-MANIA, CA                                                                                                                              125
 HINET Data Communication Business Group, TW                                                                                                   118
 CHINANET-SH-AP China Telecom Group, CN                                                                                                        100
-CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                    97
 SKB-AS SK Broadband Co Ltd, KR                                                                                                                 96
 GOOGLE-CLOUD-PLATFORM, US                                                                                                                      92
 VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                                                                                      90
