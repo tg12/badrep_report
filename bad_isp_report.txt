@@ -1,6 +1,6 @@
 DIGITALOCEAN-ASN, US                                                                                                                          458
 BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               429
-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          299
+TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          427
 TOT-NET TOT Public Company Limited, TH                                                                                                        193
 HINET Data Communication Business Group, TW                                                                                                   143
 SERVER-MANIA, CA                                                                                                                              110
