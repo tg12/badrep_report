@@ -1,5 +1,5 @@
 DIGITALOCEAN-ASN, US                                                                                                                          456
-BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               398
+BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               433
 TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          294
 TOT-NET TOT Public Company Limited, TH                                                                                                        166
 HINET Data Communication Business Group, TW                                                                                                   131
@@ -22,9 +22,9 @@ ASN-QUADRANET-GLOBAL, US                                                        
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                                        51
 GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                                                                        49
 ATT-INTERNET4, US                                                                                                                              48
+ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                       48
 ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                                                                                46
 AS-COLOCROSSING, US                                                                                                                            40
-ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                       40
 HOST-AS-AP Host Universal Pty Ltd, AU                                                                                                          37
 CNIX-AP China Networks Inter-Exchange, CN                                                                                                      35
 UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                                   33
