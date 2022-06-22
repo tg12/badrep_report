@@ -1,6 +1,6 @@
 DIGITALOCEAN-ASN, US                                                                                                                          474
+BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               351
 TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          298
-BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               293
 TOT-NET TOT Public Company Limited, TH                                                                                                        162
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                                       143
 SERVER-MANIA, CA                                                                                                                              127
