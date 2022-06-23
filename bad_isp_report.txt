@@ -1,5 +1,5 @@
 DIGITALOCEAN-ASN, US                                                                                                                          493
-BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               451
+BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               456
 TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          292
 TOT-NET TOT Public Company Limited, TH                                                                                                        162
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                                       132
@@ -20,11 +20,11 @@ NA                                                                              
 FPT-AS-AP FPT Telecom Company, VN                                                                                                              59
 ASN-QUADRANET-GLOBAL, US                                                                                                                       57
 CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                    56
+ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                       56
 GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                                                                        53
 ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                                                                                49
 ATT-INTERNET4, US                                                                                                                              46
 HOST-AS-AP Host Universal Pty Ltd, AU                                                                                                          42
-ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                       41
 AS-COLOCROSSING, US                                                                                                                            39
 ASDETUK www.heficed.com, GB                                                                                                                    35
 CNIX-AP China Networks Inter-Exchange, CN                                                                                                      35
