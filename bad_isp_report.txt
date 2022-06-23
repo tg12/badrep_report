@@ -1,6 +1,7 @@
 TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                292
 TOT-NET TOT Public Company Limited, TH                                                                                              162
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                             132
+DIGITALOCEAN-ASN, US                                                                                                                123
 HINET Data Communication Business Group, TW                                                                                         119
 VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                                                                           103
 CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN                                                                                 88
@@ -9,7 +10,6 @@ CLOUDIE-AS-AP Cloudie Limited, HK                                               
 SKB-AS SK Broadband Co Ltd, KR                                                                                                       78
 CHINANET-SH-AP China Telecom Group, CN                                                                                               74
 UUNET, US                                                                                                                            74
-DIGITALOCEAN-ASN, US                                                                                                                 68
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                           64
 NA                                                                                                                                   64
 FPT-AS-AP FPT Telecom Company, VN                                                                                                    59
