@@ -1,6 +1,6 @@
 DIGITALOCEAN-ASN, US                                                                                                                          474
 BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               471
-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          298
+TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          347
 TOT-NET TOT Public Company Limited, TH                                                                                                        162
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                                       143
 SERVER-MANIA, CA                                                                                                                              127
@@ -32,12 +32,13 @@ CHINA169-BJ China Unicom Beijing Province Network, CN                           
 UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                                   35
 CEPATNET-AS-ID PT Mora Telematika Indonesia, ID                                                                                                34
 ASDETUK www.heficed.com, GB                                                                                                                    32
+GIGABIT-MY Gigabit Hosting Sdn Bhd, MY                                                                                                         29
 ELITE-BD ELITE COMMUNICATION, BD                                                                                                               29
 IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID                                                                                         29
-GIGABIT-MY Gigabit Hosting Sdn Bhd, MY                                                                                                         29
 TWC-20001-PACWEST, US                                                                                                                          29
-IT7NET, CA                                                                                                                                     28
 AS62904, US                                                                                                                                    28
+CABLELITE-AS-AP Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA, IN                                         28
+IT7NET, CA                                                                                                                                     28
 CHINANET-IDC-BJ-AP IDC, China Telecommunications Corporation, CN                                                                               28
 KAOPU-HK Kaopu Cloud HK Limited, HK                                                                                                            26
 AGPL-AS-AP Apeiron Global Pvt. Ltd., IN                                                                                                        25
@@ -47,22 +48,21 @@ Telkom-Internet, ZA                                                             
 SEEDNET Digital United Inc., TW                                                                                                                23
 TOT-LLI-AS-AP TOT Public Company Limited, TH                                                                                                   23
 VNPT-AS-VN VNPT Corp, VN                                                                                                                       22
-CTRLS-AS-IN CtrlS Datacenters Ltd., IN                                                                                                         21
-TFN-TW Taiwan Fixed Network, Telco and Network Service Provider., TW                                                                           21
-DACEN-2, US                                                                                                                                    21
-CABLELITE-AS-AP Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA, IN                                         21
 IPIP-CN Beijing Tiantexin Tech. Co., Ltd., CN                                                                                                  21
+DACEN-2, US                                                                                                                                    21
+TFN-TW Taiwan Fixed Network, Telco and Network Service Provider., TW                                                                           21
+CTRLS-AS-IN CtrlS Datacenters Ltd., IN                                                                                                         21
 NHANHOA-AS-VN NhanHoa Software company, VN                                                                                                     20
-XIAONIAOYUN Shenzhen Qianhai bird cloud computing Co. Ltd., CN                                                                                 19
 IDNIC-KOMINFOTANGSEL-AS-ID DISKOMINFO TANGERANG SELATAN, ID                                                                                    19
-BKNS-AS-VN Bach Kim Network solutions Join stock company, VN                                                                                   18
-FASTWAY-AS Fastway Transmission Private Limited, IN                                                                                            18
+XIAONIAOYUN Shenzhen Qianhai bird cloud computing Co. Ltd., CN                                                                                 19
 PVTABNL-AS Allnet Broadband Network Pvt Ltd, IN                                                                                                18
+FASTWAY-AS Fastway Transmission Private Limited, IN                                                                                            18
+BKNS-AS-VN Bach Kim Network solutions Join stock company, VN                                                                                   18
 LAYER-HOST, US                                                                                                                                 17
 KPIN-AS-KR INet Technologies Co., Ltd., KR                                                                                                     17
 AS40676, US                                                                                                                                    17
-CHINANET-IDC-GD China Telecom Group, CN                                                                                                        16
 ELXIREDATA-AS-IN ELXIRE DATA SERVICES PVT. LTD., IN                                                                                            16
+CHINANET-IDC-GD China Telecom Group, CN                                                                                                        16
 MTNNS-AS, ZA                                                                                                                                   16
 TACHYON-AS-ID PT Remala Abadi, ID                                                                                                              16
 SOLUSINET-AS-ID PT iForte Global Internet, ID                                                                                                  16
