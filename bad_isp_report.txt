@@ -4,20 +4,20 @@ BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                 
 TOT-NET TOT Public Company Limited, TH                                                                                                        170
 HINET Data Communication Business Group, TW                                                                                                   138
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                                       133
-CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                         119
 LGDACOM LG DACOM Corporation, KR                                                                                                              114
 SERVER-MANIA, CA                                                                                                                              103
 VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                                                                                      94
-CHINANET-SH-AP China Telecom Group, CN                                                                                                         93
 GOOGLE-CLOUD-PLATFORM, US                                                                                                                      91
 Hero-Telecoms, ZA                                                                                                                              90
 PONYNET, US                                                                                                                                    88
+CHINANET-SH-AP China Telecom Group, CN                                                                                                         86
 CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                    86
 UUNET, US                                                                                                                                      85
 CLOUDIE-AS-AP Cloudie Limited, HK                                                                                                              82
 MICROSOFT-CORP-MSN-AS-BLOCK, US                                                                                                                80
 CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN                                                                                           80
 ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                       78
+CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                          71
 SKB-AS SK Broadband Co Ltd, KR                                                                                                                 70
 NA                                                                                                                                             67
 ASN-QUADRANET-GLOBAL, US                                                                                                                       66
