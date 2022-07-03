@@ -3,9 +3,9 @@ DIGITALOCEAN-ASN, US                                                            
 BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               437
 TOT-NET TOT Public Company Limited, TH                                                                                                        166
 HINET Data Communication Business Group, TW                                                                                                   137
-CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                         129
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                                       126
 LGDACOM LG DACOM Corporation, KR                                                                                                              118
+CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                         108
 VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                                                                                     104
 SERVER-MANIA, CA                                                                                                                               99
 CHINANET-SH-AP China Telecom Group, CN                                                                                                         96
