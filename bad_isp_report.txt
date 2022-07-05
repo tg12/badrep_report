@@ -1,6 +1,6 @@
 DIGITALOCEAN-ASN, US                                                                                                                          450
 TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          304
-BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               200
+BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               279
 TOT-NET TOT Public Company Limited, TH                                                                                                        172
 HINET Data Communication Business Group, TW                                                                                                   141
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                                       131
@@ -25,9 +25,9 @@ LGDACOM LG DACOM Corporation, KR                                                
 ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                       43
 ATT-INTERNET4, US                                                                                                                              43
 ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                                                                                41
+CNIX-AP China Networks Inter-Exchange, CN                                                                                                      37
 TWC-20001-PACWEST, US                                                                                                                          37
 UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                                   37
-CNIX-AP China Networks Inter-Exchange, CN                                                                                                      36
 SEEDNET Digital United Inc., TW                                                                                                                32
 CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                          32
 Telkom-Internet, ZA                                                                                                                            31
