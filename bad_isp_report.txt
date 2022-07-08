@@ -16,10 +16,10 @@ UUNET, US                                                                       
 ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                       74
 NA                                                                                                                                             70
 SKB-AS SK Broadband Co Ltd, KR                                                                                                                 68
-LGDACOM LG DACOM Corporation, KR                                                                                                               66
 CHINANET-SH-AP China Telecom Group, CN                                                                                                         58
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                                     56
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                                        55
+LGDACOM LG DACOM Corporation, KR                                                                                                               50
 GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                                                                        49
 FPT-AS-AP FPT Telecom Company, VN                                                                                                              46
 ATT-INTERNET4, US                                                                                                                              45
