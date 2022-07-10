@@ -1,4 +1,4 @@
-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          455
+TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          445
 DIGITALOCEAN-ASN, US                                                                                                                          421
 BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               383
 TOT-NET TOT Public Company Limited, TH                                                                                                        149
@@ -17,7 +17,7 @@ ASN-QUADRANET-GLOBAL, US                                                        
 NA                                                                                                                                             75
 MICROSOFT-CORP-MSN-AS-BLOCK, US                                                                                                                75
 SKB-AS SK Broadband Co Ltd, KR                                                                                                                 67
-CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                    60
+CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                    59
 CNIX-AP China Networks Inter-Exchange, CN                                                                                                      57
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                                     56
 CHINANET-SH-AP China Telecom Group, CN                                                                                                         52
