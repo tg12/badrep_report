@@ -4,10 +4,10 @@ BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                 
 CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                   281
 TOT-NET TOT Public Company Limited, TH                                                                                                        149
 HINET Data Communication Business Group, TW                                                                                                   135
+AS-COLOCROSSING, US                                                                                                                           133
 SERVER-MANIA, CA                                                                                                                              125
 LGDACOM LG DACOM Corporation, KR                                                                                                              111
 CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                         108
-AS-COLOCROSSING, US                                                                                                                           103
 CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN                                                                                          102
 GOOGLE-CLOUD-PLATFORM, US                                                                                                                      96
 ASN-QUADRANET-GLOBAL, US                                                                                                                       88
