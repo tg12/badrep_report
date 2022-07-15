@@ -9,6 +9,7 @@ LGDACOM LG DACOM Corporation, KR                                                
 CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                          96
 UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                                   93
 GOOGLE-CLOUD-PLATFORM, US                                                                                                                      93
+AS-COLOCROSSING, US                                                                                                                            93
 CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN                                                                                           92
 ASN-QUADRANET-GLOBAL, US                                                                                                                       87
 VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                                                                                      86
@@ -22,7 +23,6 @@ CLOUDIE-AS-AP Cloudie Limited, HK                                               
 CHINANET-SH-AP China Telecom Group, CN                                                                                                         66
 SKB-AS SK Broadband Co Ltd, KR                                                                                                                 64
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                                     63
-AS-COLOCROSSING, US                                                                                                                            62
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                                        60
 ATT-INTERNET4, US                                                                                                                              58
 FPT-AS-AP FPT Telecom Company, VN                                                                                                              52
@@ -33,8 +33,8 @@ ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                 
 PACKETEXCHANGE, SE                                                                                                                             35
 CT-GUANGZHOU-IDC CHINANET Guangdong province network, CN                                                                                       34
 CEPATNET-AS-ID PT Mora Telematika Indonesia, ID                                                                                                32
-SEEDNET Digital United Inc., TW                                                                                                                29
 ELITE-BD ELITE COMMUNICATION, BD                                                                                                               29
+SEEDNET Digital United Inc., TW                                                                                                                29
 IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID                                                                                         28
 MTNNS-AS, ZA                                                                                                                                   27
 TWC-20001-PACWEST, US                                                                                                                          27
@@ -45,14 +45,14 @@ HOSTWINDS, US                                                                   
 TFN-TW Taiwan Fixed Network, Telco and Network Service Provider., TW                                                                           24
 PESAT1-AS-AP PT. Pasifik Satelit Nusantara, ID                                                                                                 23
 HOST-AS-AP Host Universal Pty Ltd, AU                                                                                                          23
-VNPT-AS-VN VNPT Corp, VN                                                                                                                       23
 CHINANET-IDC-BJ-AP IDC, China Telecommunications Corporation, CN                                                                               23
+VNPT-AS-VN VNPT Corp, VN                                                                                                                       23
 KAOPU-HK Kaopu Cloud HK Limited, HK                                                                                                            21
-DACEN-2, US                                                                                                                                    21
 BKNS-AS-VN Bach Kim Network solutions Join stock company, VN                                                                                   21
 TOT-LLI-AS-AP TOT Public Company Limited, TH                                                                                                   21
-Telkom-Internet, ZA                                                                                                                            20
+DACEN-2, US                                                                                                                                    21
 YISUCLOUDLTD-HK YISU CLOUD LTD, HK                                                                                                             20
+Telkom-Internet, ZA                                                                                                                            20
 CTRLS-AS-IN CtrlS Datacenters Ltd., IN                                                                                                         20
 AS40676, US                                                                                                                                    19
 IPIP-CN Beijing Tiantexin Tech. Co., Ltd., CN                                                                                                  18
