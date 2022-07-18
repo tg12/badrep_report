@@ -23,9 +23,9 @@ SKB-AS SK Broadband Co Ltd, KR                                                  
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                                     63
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                                        60
 ATT-INTERNET4, US                                                                                                                              58
-UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                                   58
 FPT-AS-AP FPT Telecom Company, VN                                                                                                              52
 GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                                                                        51
+UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                                   40
 CNIX-AP China Networks Inter-Exchange, CN                                                                                                      40
 ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                                                                                38
 AS-COLOCROSSING, US                                                                                                                            36
