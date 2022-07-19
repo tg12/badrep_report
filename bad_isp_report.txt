@@ -2,7 +2,6 @@ DIGITALOCEAN-ASN, US                                                            
 BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               341
 CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                   305
 TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          261
-AS-COLOCROSSING, US                                                                                                                           162
 TOT-NET TOT Public Company Limited, TH                                                                                                        149
 HINET Data Communication Business Group, TW                                                                                                   128
 SERVER-MANIA, CA                                                                                                                              116
@@ -20,6 +19,7 @@ PONYNET, US                                                                     
 UUNET, US                                                                                                                                      69
 NA                                                                                                                                             68
 CLOUDIE-AS-AP Cloudie Limited, HK                                                                                                              68
+AS-COLOCROSSING, US                                                                                                                            67
 CHINANET-SH-AP China Telecom Group, CN                                                                                                         66
 SKB-AS SK Broadband Co Ltd, KR                                                                                                                 64
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                                     63
@@ -36,23 +36,23 @@ CEPATNET-AS-ID PT Mora Telematika Indonesia, ID                                 
 ELITE-BD ELITE COMMUNICATION, BD                                                                                                               29
 SEEDNET Digital United Inc., TW                                                                                                                29
 IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID                                                                                         28
-MTNNS-AS, ZA                                                                                                                                   27
 TWC-20001-PACWEST, US                                                                                                                          27
+MTNNS-AS, ZA                                                                                                                                   27
 ASDETUK www.heficed.com, GB                                                                                                                    26
 IT7NET, CA                                                                                                                                     25
 HOSTWINDS, US                                                                                                                                  24
-CABLELITE-AS-AP Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA, IN                                         24
 TFN-TW Taiwan Fixed Network, Telco and Network Service Provider., TW                                                                           24
+CABLELITE-AS-AP Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA, IN                                         24
 PESAT1-AS-AP PT. Pasifik Satelit Nusantara, ID                                                                                                 23
-CHINANET-IDC-BJ-AP IDC, China Telecommunications Corporation, CN                                                                               23
 HOST-AS-AP Host Universal Pty Ltd, AU                                                                                                          23
 VNPT-AS-VN VNPT Corp, VN                                                                                                                       23
+CHINANET-IDC-BJ-AP IDC, China Telecommunications Corporation, CN                                                                               23
 KAOPU-HK Kaopu Cloud HK Limited, HK                                                                                                            21
-TOT-LLI-AS-AP TOT Public Company Limited, TH                                                                                                   21
 DACEN-2, US                                                                                                                                    21
+TOT-LLI-AS-AP TOT Public Company Limited, TH                                                                                                   21
 BKNS-AS-VN Bach Kim Network solutions Join stock company, VN                                                                                   21
-Telkom-Internet, ZA                                                                                                                            20
 YISUCLOUDLTD-HK YISU CLOUD LTD, HK                                                                                                             20
+Telkom-Internet, ZA                                                                                                                            20
 CTRLS-AS-IN CtrlS Datacenters Ltd., IN                                                                                                         20
 AS40676, US                                                                                                                                    19
 NHANHOA-AS-VN NhanHoa Software company, VN                                                                                                     18
