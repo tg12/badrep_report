@@ -3,10 +3,10 @@ CHINANET-BACKBONE No.31,Jin-rong Street, CN                                     
 BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               295
 TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          245
 AS-COLOCROSSING, US                                                                                                                           209
+LEASEWEB-USA-SEA, US                                                                                                                          208
 UUNET, US                                                                                                                                     160
 PONYNET, US                                                                                                                                   150
 TOT-NET TOT Public Company Limited, TH                                                                                                        134
-LEASEWEB-USA-SEA, US                                                                                                                          133
 HINET Data Communication Business Group, TW                                                                                                   127
 SERVER-MANIA, CA                                                                                                                              102
 ASN-QUADRANET-GLOBAL, US                                                                                                                      100
