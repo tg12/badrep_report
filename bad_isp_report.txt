@@ -27,7 +27,7 @@ FPT-AS-AP FPT Telecom Company, VN                                               
 PESAT1-AS-AP PT. Pasifik Satelit Nusantara, ID                                                                                                 49
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                                        46
 AS62904, US                                                                                                                                    42
-AS-COLOCROSSING, US                                                                                                                            38
+AS-COLOCROSSING, US                                                                                                                            40
 ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                                                                                37
 CLOUDFLARENET, US                                                                                                                              37
 CNIX-AP China Networks Inter-Exchange, CN                                                                                                      36
