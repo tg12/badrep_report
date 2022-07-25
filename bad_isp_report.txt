@@ -2,7 +2,7 @@ DIGITALOCEAN-ASN, US                                                            
 CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                   315
 BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               300
 TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          248
-AS-COLOCROSSING, US                                                                                                                           166
+AS-COLOCROSSING, US                                                                                                                           196
 TOT-NET TOT Public Company Limited, TH                                                                                                        131
 HINET Data Communication Business Group, TW                                                                                                   126
 SERVER-MANIA, CA                                                                                                                              107
