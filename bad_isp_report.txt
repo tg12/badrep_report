@@ -1,9 +1,9 @@
 DIGITALOCEAN-ASN, US                                                                                                                          406
 CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                   315
+LEASEWEB-USA-SEA, US                                                                                                                          305
 BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               300
 TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          248
 AS-COLOCROSSING, US                                                                                                                           203
-LEASEWEB-USA-SEA, US                                                                                                                          175
 UUNET, US                                                                                                                                     165
 PONYNET, US                                                                                                                                   147
 TOT-NET TOT Public Company Limited, TH                                                                                                        131
