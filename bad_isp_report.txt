@@ -15,16 +15,16 @@ MICROSOFT-CORP-MSN-AS-BLOCK, US                                                 
 ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                       72
 CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                    70
 PONYNET, US                                                                                                                                    68
+CHINANET-SH-AP China Telecom Group, CN                                                                                                         67
+CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                          67
 NA                                                                                                                                             64
 Hero-Telecoms, ZA                                                                                                                              64
-CHINANET-SH-AP China Telecom Group, CN                                                                                                         58
 PESAT1-AS-AP PT. Pasifik Satelit Nusantara, ID                                                                                                 56
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                                        54
 CLOUDIE-AS-AP Cloudie Limited, HK                                                                                                              53
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                                     47
 FPT-AS-AP FPT Telecom Company, VN                                                                                                              46
 ATT-INTERNET4, US                                                                                                                              43
-CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                          39
 AS-COLOCROSSING, US                                                                                                                            37
 UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                                   37
 ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                                                                                36
