@@ -1,4 +1,3 @@
-LEASEWEB-USA-SEA, US                                                                                                                          585
 DIGITALOCEAN-ASN, US                                                                                                                          435
 BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               286
 CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                   273
@@ -19,6 +18,7 @@ CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN                            
 CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                          82
 SKB-AS SK Broadband Co Ltd, KR                                                                                                                 80
 ATT-MOBILITY-LLC-AS20057, US                                                                                                                   79
+LEASEWEB-USA-SEA, US                                                                                                                           79
 NA                                                                                                                                             74
 ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                       72
 MICROSOFT-CORP-MSN-AS-BLOCK, US                                                                                                                72
