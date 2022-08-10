@@ -14,10 +14,10 @@ UUNET, US                                                                       
 CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                          80
 UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                                   79
 SKB-AS SK Broadband Co Ltd, KR                                                                                                                 76
-PONYNET, US                                                                                                                                    76
 MICROSOFT-CORP-MSN-AS-BLOCK, US                                                                                                                76
 ASN-QUADRANET-GLOBAL, US                                                                                                                       73
 Hero-Telecoms, ZA                                                                                                                              66
+PONYNET, US                                                                                                                                    63
 NA                                                                                                                                             62
 CHINANET-SH-AP China Telecom Group, CN                                                                                                         59
 HENGTONG-IDC-LLC, US                                                                                                                           57
@@ -33,11 +33,11 @@ ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                 
 SERVERHUB-NL, US                                                                                                                               36
 CNIX-AP China Networks Inter-Exchange, CN                                                                                                      36
 CT-GUANGZHOU-IDC CHINANET Guangdong province network, CN                                                                                       35
-TWC-20001-PACWEST, US                                                                                                                          35
 CEPATNET-AS-ID PT Mora Telematika Indonesia, ID                                                                                                34
 IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID                                                                                         33
 IT7NET, CA                                                                                                                                     32
 AS62904, US                                                                                                                                    30
+TWC-20001-PACWEST, US                                                                                                                          29
 ELITE-BD ELITE COMMUNICATION, BD                                                                                                               29
 GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                                                                        29
 HOST-AS-AP Host Universal Pty Ltd, AU                                                                                                          29
