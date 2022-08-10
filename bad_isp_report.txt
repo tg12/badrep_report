@@ -5,7 +5,6 @@ AS-COLOCROSSING, US                                                             
 TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          211
 TOT-NET TOT Public Company Limited, TH                                                                                                        150
 HINET Data Communication Business Group, TW                                                                                                   124
-PONYNET, US                                                                                                                                   117
 SERVER-MANIA, CA                                                                                                                              116
 VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                                                                                     101
 LGDACOM LG DACOM Corporation, KR                                                                                                               98
@@ -15,6 +14,7 @@ UUNET, US                                                                       
 CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                          80
 UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                                   79
 SKB-AS SK Broadband Co Ltd, KR                                                                                                                 76
+PONYNET, US                                                                                                                                    76
 MICROSOFT-CORP-MSN-AS-BLOCK, US                                                                                                                76
 ASN-QUADRANET-GLOBAL, US                                                                                                                       73
 Hero-Telecoms, ZA                                                                                                                              66
