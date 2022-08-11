@@ -14,17 +14,17 @@ PONYNET, US                                                                     
 NA                                                                                                                                             79
 UUNET, US                                                                                                                                      77
 MICROSOFT-CORP-MSN-AS-BLOCK, US                                                                                                                75
-CHINANET-SH-AP China Telecom Group, CN                                                                                                         70
+CHINANET-SH-AP China Telecom Group, CN                                                                                                         73
 ASN-QUADRANET-GLOBAL, US                                                                                                                       67
 Hero-Telecoms, ZA                                                                                                                              63
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                                     58
 HENGTONG-IDC-LLC, US                                                                                                                           57
+CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                          56
 ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                       55
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                                        54
 PESAT1-AS-AP PT. Pasifik Satelit Nusantara, ID                                                                                                 51
 FPT-AS-AP FPT Telecom Company, VN                                                                                                              50
 CNIX-AP China Networks Inter-Exchange, CN                                                                                                      48
-CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                          47
 CT-GUANGZHOU-IDC CHINANET Guangdong province network, CN                                                                                       46
 ATT-INTERNET4, US                                                                                                                              45
 CLOUDIE-AS-AP Cloudie Limited, HK                                                                                                              43
