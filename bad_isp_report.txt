@@ -9,13 +9,13 @@ GOOGLE-CLOUD-PLATFORM, US                                                       
 SERVER-MANIA, CA                                                                                                                               85
 PONYNET, US                                                                                                                                    82
 UUNET, US                                                                                                                                      77
+BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                                76
 MICROSOFT-CORP-MSN-AS-BLOCK, US                                                                                                                75
 NA                                                                                                                                             69
 CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                    68
 ASN-QUADRANET-GLOBAL, US                                                                                                                       67
 Hero-Telecoms, ZA                                                                                                                              63
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                                     58
-BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                                58
 HENGTONG-IDC-LLC, US                                                                                                                           57
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                                        54
 CHINANET-SH-AP China Telecom Group, CN                                                                                                         52
@@ -28,18 +28,18 @@ LGDACOM LG DACOM Corporation, KR                                                
 CEPATNET-AS-ID PT Mora Telematika Indonesia, ID                                                                                                37
 HOST-AS-AP Host Universal Pty Ltd, AU                                                                                                          36
 MTNNS-AS, ZA                                                                                                                                   35
-UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                                   34
 IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID                                                                                         34
-BKNS-AS-VN Bach Kim Network solutions Join stock company, VN                                                                                   33
+UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                                   34
 AS-COLOCROSSING, US                                                                                                                            33
+BKNS-AS-VN Bach Kim Network solutions Join stock company, VN                                                                                   33
 TWC-20001-PACWEST, US                                                                                                                          31
-ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                       30
-GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                                                                        30
 LEASEWEB-NL-AMS-01 Netherlands, NL                                                                                                             30
+GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                                                                        30
+ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                       30
 ELITE-BD ELITE COMMUNICATION, BD                                                                                                               29
 AS62904, US                                                                                                                                    28
-CLOUDFLARENET, US                                                                                                                              26
 Telkom-Internet, ZA                                                                                                                            26
+CLOUDFLARENET, US                                                                                                                              26
 SEEDNET Digital United Inc., TW                                                                                                                26
 PATRANET-AP Patrakom Internet Service Provider, ID                                                                                             25
 TFN-TW Taiwan Fixed Network, Telco and Network Service Provider., TW                                                                           25
