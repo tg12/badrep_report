@@ -26,11 +26,11 @@ ASN-TELSTRA Telstra Corporation Ltd, AU                                         
 FPT-AS-AP FPT Telecom Company, VN                                                                                                              48
 ATT-INTERNET4, US                                                                                                                              48
 CLOUDIE-AS-AP Cloudie Limited, HK                                                                                                              46
-CT-GUANGZHOU-IDC CHINANET Guangdong province network, CN                                                                                       42
+CT-GUANGZHOU-IDC CHINANET Guangdong province network, CN                                                                                       45
 ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                                                                                41
+CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                          41
 CEPATNET-AS-ID PT Mora Telematika Indonesia, ID                                                                                                37
 UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                                   37
-CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                          37
 IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID                                                                                         36
 HOST-AS-AP Host Universal Pty Ltd, AU                                                                                                          33
 BKNS-AS-VN Bach Kim Network solutions Join stock company, VN                                                                                   32
