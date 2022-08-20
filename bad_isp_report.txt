@@ -1,5 +1,5 @@
 DIGITALOCEAN-ASN, US                                                                                                                          442
-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          422
+TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          394
 BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               329
 TOT-NET TOT Public Company Limited, TH                                                                                                        144
 HINET Data Communication Business Group, TW                                                                                                   118
