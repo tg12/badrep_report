@@ -19,12 +19,12 @@ CHINANET-SH-AP China Telecom Group, CN                                          
 Hero-Telecoms, ZA                                                                                                                              69
 UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                                   68
 NA                                                                                                                                             67
+AS-COLOCROSSING, US                                                                                                                            60
 ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                       60
 PESAT1-AS-AP PT. Pasifik Satelit Nusantara, ID                                                                                                 58
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                                     57
 ATT-INTERNET4, US                                                                                                                              56
 HENGTONG-IDC-LLC, US                                                                                                                           56
-AS-COLOCROSSING, US                                                                                                                            55
 CNIX-AP China Networks Inter-Exchange, CN                                                                                                      52
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                                        49
 FPT-AS-AP FPT Telecom Company, VN                                                                                                              48
