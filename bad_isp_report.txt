@@ -1,7 +1,7 @@
 TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          492
 DIGITALOCEAN-ASN, US                                                                                                                          451
 BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               347
-CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                   185
+CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                   213
 TOT-NET TOT Public Company Limited, TH                                                                                                        143
 VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                                                                                     124
 HINET Data Communication Business Group, TW                                                                                                   119
