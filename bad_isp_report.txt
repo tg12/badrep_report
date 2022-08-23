@@ -1,5 +1,5 @@
 DIGITALOCEAN-ASN, US                                                                                                                          451
-BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               325
+BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               350
 TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          308
 TOT-NET TOT Public Company Limited, TH                                                                                                        139
 VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                                                                                     120
@@ -21,13 +21,13 @@ CHINANET-SH-AP China Telecom Group, CN                                          
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                                        55
 CLOUDIE-AS-AP Cloudie Limited, HK                                                                                                              52
 FPT-AS-AP FPT Telecom Company, VN                                                                                                              51
+ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                       49
 ATT-INTERNET4, US                                                                                                                              46
 UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                                   43
 LGDACOM LG DACOM Corporation, KR                                                                                                               39
 ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                                                                                39
 IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID                                                                                         38
 CEPATNET-AS-ID PT Mora Telematika Indonesia, ID                                                                                                37
-ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                       36
 HENGTONG-IDC-LLC, US                                                                                                                           34
 GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                                                                        33
 CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                          32
