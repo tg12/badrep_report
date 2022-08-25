@@ -1,6 +1,6 @@
 DIGITALOCEAN-ASN, US                                                                                                                          447
+BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               349
 TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          314
-BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               291
 TOT-NET TOT Public Company Limited, TH                                                                                                        148
 NA                                                                                                                                            131
 VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                                                                                     118
@@ -15,13 +15,13 @@ PONYNET, US                                                                     
 MICROSOFT-CORP-MSN-AS-BLOCK, US                                                                                                                74
 UUNET, US                                                                                                                                      73
 SKB-AS SK Broadband Co Ltd, KR                                                                                                                 72
+ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                       70
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                                     62
 CHINANET-SH-AP China Telecom Group, CN                                                                                                         59
 PESAT1-AS-AP PT. Pasifik Satelit Nusantara, ID                                                                                                 57
 FPT-AS-AP FPT Telecom Company, VN                                                                                                              53
 CLOUDIE-AS-AP Cloudie Limited, HK                                                                                                              51
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                                        51
-ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                       44
 ATT-INTERNET4, US                                                                                                                              42
 UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                                   41
 ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                                                                                37
