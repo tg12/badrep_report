@@ -1,3 +1,21 @@
+HETZNER-AS - Hetzner Online GmbH
+GCS-AS-KR GREEN CABLE TELEVISION STATION
+Free SAS
+CHINATELECOM-ZHEJIANG-WENZHOU-IDC WENZHOU
+HKBN-AS-AP Hong Kong Broadband Network Ltd.
+CONTABO - Contabo GmbH
+OVH - OVH SAS
+ORACLE-BMC-31898
+BELPAK-AS - Republican Unitary Telecommunication Enterprise Beltelecom
+ASIATECH - Asiatech Data Transmission company
+ASTIMER - Timer, LLC 
+SKB-AS SK Broadband Co Ltd
+PALTEL-AS - Palestine Telecommunications Company (PALTEL)
+VCG-AS - MTN NIGERIA Communication limited
+DWANIRINN-AS DWANIRINN 
+GPRS-AS - Mobile Telecommunications Company
+GCS-AS-KR GREEN CABLE TELEVISION STATION
+TELKOMNET-AS-AP PT Telekomunikasi Indonesia
 DIGITALOCEAN-ASN, US                                                                                                                          486
 TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          476
 BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               344
@@ -10,6 +28,7 @@ HINET Data Communication Business Group, TW                                     
 VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                                                                                     105
 LGDACOM LG DACOM Corporation, KR                                                                                                              101
 GOOGLE-CLOUD-PLATFORM, US                                                                                                                     100
+GDNSKR-KR Korea Internet Security Agency
 CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN                                                                                           90
 ASN-QUADRANET-GLOBAL, US                                                                                                                       86
 Hero-Telecoms, ZA                                                                                                                              79
