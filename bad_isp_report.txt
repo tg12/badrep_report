@@ -8,19 +8,19 @@ VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                       
 LGDACOM LG DACOM Corporation, KR                                                                                                              103
 CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN                                                                                           95
 GOOGLE-CLOUD-PLATFORM, US                                                                                                                      92
-CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                          90
 PHMGMT-AS1, US                                                                                                                                 90
 SERVER-MANIA, CA                                                                                                                               85
 SKB-AS SK Broadband Co Ltd, KR                                                                                                                 84
-CHINANET-SH-AP China Telecom Group, CN                                                                                                         81
 PONYNET, US                                                                                                                                    77
 UUNET, US                                                                                                                                      77
 ASN-QUADRANET-GLOBAL, US                                                                                                                       75
 Hero-Telecoms, ZA                                                                                                                              74
-NA                                                                                                                                             71
 MICROSOFT-CORP-MSN-AS-BLOCK, US                                                                                                                71
+NA                                                                                                                                             71
 ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                       68
+CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                          62
 PESAT1-AS-AP PT. Pasifik Satelit Nusantara, ID                                                                                                 60
+CHINANET-SH-AP China Telecom Group, CN                                                                                                         59
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                                     58
 CNIX-AP China Networks Inter-Exchange, CN                                                                                                      51
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                                        49
@@ -29,18 +29,18 @@ CLOUDIE-AS-AP Cloudie Limited, HK                                               
 ATT-INTERNET4, US                                                                                                                              44
 CT-GUANGZHOU-IDC CHINANET Guangdong province network, CN                                                                                       43
 ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                                                                                40
-GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                                                                        33
 CEPATNET-AS-ID PT Mora Telematika Indonesia, ID                                                                                                33
+GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                                                                        33
 ASDETUK www.heficed.com, GB                                                                                                                    32
-IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID                                                                                         31
 CLOUDFLARENET, US                                                                                                                              31
+IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID                                                                                         31
 ELITE-BD ELITE COMMUNICATION, BD                                                                                                               29
-PATRANET-AP Patrakom Internet Service Provider, ID                                                                                             29
 UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                                   29
-MTNNS-AS, ZA                                                                                                                                   28
+PATRANET-AP Patrakom Internet Service Provider, ID                                                                                             29
 AS62904, US                                                                                                                                    28
-Telkom-Internet, ZA                                                                                                                            26
+MTNNS-AS, ZA                                                                                                                                   28
 TWC-20001-PACWEST, US                                                                                                                          26
+Telkom-Internet, ZA                                                                                                                            26
 SEEDNET Digital United Inc., TW                                                                                                                25
 IT7NET, CA                                                                                                                                     25
 HOST-AS-AP Host Universal Pty Ltd, AU                                                                                                          24
