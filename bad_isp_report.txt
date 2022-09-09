@@ -3,6 +3,7 @@ TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN            
 BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               342
 CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                   250
 TOT-NET TOT Public Company Limited, TH                                                                                                        149
+AS-COLOCROSSING, US                                                                                                                           128
 HINET Data Communication Business Group, TW                                                                                                   118
 SERVER-MANIA, CA                                                                                                                              117
 VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                                                                                     113
@@ -25,10 +26,9 @@ TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                      
 ATT-INTERNET4, US                                                                                                                              51
 ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                       51
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                                        51
-CNIX-AP China Networks Inter-Exchange, CN                                                                                                      50
 FPT-AS-AP FPT Telecom Company, VN                                                                                                              50
+CNIX-AP China Networks Inter-Exchange, CN                                                                                                      50
 CLOUDIE-AS-AP Cloudie Limited, HK                                                                                                              45
-AS-COLOCROSSING, US                                                                                                                            45
 CT-GUANGZHOU-IDC CHINANET Guangdong province network, CN                                                                                       42
 ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                                                                                39
 IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID                                                                                         33
