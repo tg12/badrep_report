@@ -13,12 +13,12 @@ SKB-AS SK Broadband Co Ltd, KR                                                  
 Hero-Telecoms, ZA                                                                                                                              78
 MICROSOFT-CORP-MSN-AS-BLOCK, US                                                                                                                77
 PONYNET, US                                                                                                                                    77
-CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                          76
+ASN-QUADRANET-GLOBAL, US                                                                                                                       75
 UUNET, US                                                                                                                                      75
 NA                                                                                                                                             75
-ASN-QUADRANET-GLOBAL, US                                                                                                                       75
-CHINANET-SH-AP China Telecom Group, CN                                                                                                         75
 PHMGMT-AS1, US                                                                                                                                 72
+CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                          65
+CHINANET-SH-AP China Telecom Group, CN                                                                                                         61
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                                     58
 PESAT1-AS-AP PT. Pasifik Satelit Nusantara, ID                                                                                                 55
 FPT-AS-AP FPT Telecom Company, VN                                                                                                              52
