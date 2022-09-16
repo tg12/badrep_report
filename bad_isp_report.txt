@@ -28,12 +28,12 @@ CHINANET-SH-AP China Telecom Group, CN                                          
 ATT-INTERNET4, US                                                                                                                              49
 RETHEMHOSTING, US                                                                                                                              42
 MTNNS-AS, ZA                                                                                                                                   39
+CT-GUANGZHOU-IDC CHINANET Guangdong province network, CN                                                                                       38
 UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                                   38
 IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID                                                                                         38
 ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                                                                                37
 CEPATNET-AS-ID PT Mora Telematika Indonesia, ID                                                                                                36
 AS62904, US                                                                                                                                    35
-CT-GUANGZHOU-IDC CHINANET Guangdong province network, CN                                                                                       33
 GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                                                                        32
 CLOUDFLARENET, US                                                                                                                              31
 PATRANET-AP Patrakom Internet Service Provider, ID                                                                                             31
