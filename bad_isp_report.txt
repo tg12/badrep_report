@@ -1,6 +1,6 @@
 DIGITALOCEAN-ASN, US                                                                                                                          447
 TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN                                                                          317
-BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               231
+BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               229
 TOT-NET TOT Public Company Limited, TH                                                                                                        155
 HINET Data Communication Business Group, TW                                                                                                   118
 CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN                                                                                          116
@@ -664,7 +664,7 @@ IDNIC-DISKOMINFOPACITAN-AS-ID DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN PACITAN
 RLCAFENET-AS-AP RL CAFE NET, BD                                                                                                                 2
 NRDATASERVICE-AS N R DATA SERVICE PVT LTD, IN                                                                                                   2
 IFORENETWORKS-AS-IN iForce Networks, IN                                                                                                         2
-LATITUDE-SH, US                                                                                                                                 2
+LATITUDE-SH, BR                                                                                                                                 2
 GMOBILENET-MN Ulaanbaatar-211213. Chingeltei district, MN                                                                                       2
 IDNIC-CDNNET-AS-ID PT Anugerah Cimanuk Raya, ID                                                                                                 2
 NDCTPL-IN NxtGen Datacenter & Cloud Technologies Pvt. Ltd., IN                                                                                  2
@@ -954,7 +954,7 @@ XTOM xTom GmbH, DE                                                              
 SCATUI, US                                                                                                                                      1
 EMPIRE-40545, US                                                                                                                                1
 CDELIGHTBAND, US                                                                                                                                1
-ST-BGP, US                                                                                                                                      1
+SHARKTECH, US                                                                                                                                   1
 LAMA-AS-VN LAM A ARCHITECTURE CONSTRUCTION COMPANY LIMITED, VN                                                                                  1
 NSMISP-AS-AP NSM SOLUTION AND MAINTENANCE CO., LTD., KH                                                                                         1
 ITELLIMITED-AS-AP iTel Limited, BD                                                                                                              1
