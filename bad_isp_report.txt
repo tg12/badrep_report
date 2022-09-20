@@ -10,13 +10,13 @@ GOOGLE-CLOUD-PLATFORM, US                                                       
 PHMGMT-AS1, US                                                                                                                                 85
 Hero-Telecoms, ZA                                                                                                                              84
 ASN-QUADRANET-GLOBAL, US                                                                                                                       81
+BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                                79
 SKB-AS SK Broadband Co Ltd, KR                                                                                                                 79
 UUNET, US                                                                                                                                      77
 PONYNET, US                                                                                                                                    76
 NA                                                                                                                                             74
 MICROSOFT-CORP-MSN-AS-BLOCK, US                                                                                                                71
 PESAT1-AS-AP PT. Pasifik Satelit Nusantara, ID                                                                                                 61
-BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                                61
 AS-COLOCROSSING, US                                                                                                                            59
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                                     58
 CLOUDIE-AS-AP Cloudie Limited, HK                                                                                                              57
@@ -26,77 +26,77 @@ FPT-AS-AP FPT Telecom Company, VN                                               
 ATT-INTERNET4, US                                                                                                                              48
 ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                                                                                39
 ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                       38
-IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID                                                                                         37
 CEPATNET-AS-ID PT Mora Telematika Indonesia, ID                                                                                                37
 LGDACOM LG DACOM Corporation, KR                                                                                                               37
+IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID                                                                                         37
 UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                                   36
 CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                          35
 AS62904, US                                                                                                                                    32
 PATRANET-AP Patrakom Internet Service Provider, ID                                                                                             31
 GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                                                                        29
 ELITE-BD ELITE COMMUNICATION, BD                                                                                                               29
-MTNNS-AS, ZA                                                                                                                                   27
 Telkom-Internet, ZA                                                                                                                            27
+MTNNS-AS, ZA                                                                                                                                   27
 TWC-20001-PACWEST, US                                                                                                                          27
 CLOUDFLARENET, US                                                                                                                              26
-IT7NET, CA                                                                                                                                     25
 CNIX-AP China Networks Inter-Exchange, CN                                                                                                      25
 SEEDNET Digital United Inc., TW                                                                                                                25
+IT7NET, CA                                                                                                                                     25
 TOT-LLI-AS-AP TOT Public Company Limited, TH                                                                                                   24
+CTRLS-AS-IN CtrlS Datacenters Ltd., IN                                                                                                         23
 HOST-AS-AP Host Universal Pty Ltd, AU                                                                                                          23
 IPIP-CN Beijing Tiantexin Tech. Co., Ltd., CN                                                                                                  23
-CTRLS-AS-IN CtrlS Datacenters Ltd., IN                                                                                                         23
 TFN-TW Taiwan Fixed Network, Telco and Network Service Provider., TW                                                                           22
 AS40676, US                                                                                                                                    21
 NORTHERN-CABLE, US                                                                                                                             20
 ASDETUK www.heficed.com, GB                                                                                                                    20
 HOSTWINDS, US                                                                                                                                  20
-KIRINONET, US                                                                                                                                  19
 CHINANET-JIANGSU-PROVINCE-IDC AS Number for CHINANET jiangsu province backbone, CN                                                             19
+KIRINONET, US                                                                                                                                  19
 LAYER-HOST, US                                                                                                                                 19
-YISUCLOUDLTD-HK YISU CLOUD LTD, HK                                                                                                             18
 SQUITTER-NETWORKS, NL                                                                                                                          18
-PVTABNL-AS Allnet Broadband Network Pvt Ltd, IN                                                                                                18
 IDNIC-KOMINFOTANGSEL-AS-ID DISKOMINFO TANGERANG SELATAN, ID                                                                                    18
-AS-CHOOPA, US                                                                                                                                  17
-KPIN-AS-KR INet Technologies Co., Ltd., KR                                                                                                     17
+PVTABNL-AS Allnet Broadband Network Pvt Ltd, IN                                                                                                18
+YISUCLOUDLTD-HK YISU CLOUD LTD, HK                                                                                                             18
 AGPL-AS-AP Apeiron Global Pvt. Ltd., IN                                                                                                        17
-RETHEMHOSTING, US                                                                                                                              17
+KPIN-AS-KR INet Technologies Co., Ltd., KR                                                                                                     17
 NHANHOA-AS-VN NhanHoa Software company, VN                                                                                                     17
+RETHEMHOSTING, US                                                                                                                              17
+AS-CHOOPA, US                                                                                                                                  17
+CHINANET-IDC-GD China Telecom Group, CN                                                                                                        16
 TACHYON-AS-ID PT Remala Abadi, ID                                                                                                              16
 FASTWAY-AS Fastway Transmission Private Limited, IN                                                                                            16
-CHINANET-IDC-GD China Telecom Group, CN                                                                                                        16
 BKNS-AS-VN Bach Kim Network solutions Join stock company, VN                                                                                   15
-ELXIREDATA-AS-IN ELXIRE DATA SERVICES PVT. LTD., IN                                                                                            15
 SOLUSINET-AS-ID PT iForte Global Internet, ID                                                                                                  15
 IDNIC-LJN-AS-ID PT Lintas Jaringan Nusantara, ID                                                                                               15
 TMNET-AS-AP TM Net, Internet Service Provider, MY                                                                                              15
-AZDIGI-AS-VN AZDIGI Corporation, VN                                                                                                            14
-SEACOM-AS, MU                                                                                                                                  14
+ELXIREDATA-AS-IN ELXIRE DATA SERVICES PVT. LTD., IN                                                                                            15
 AMANAHA-NEW, CA                                                                                                                                14
 SERVERHUB-NL, US                                                                                                                               14
-GIGABIT-MY Gigabit Hosting Sdn Bhd, MY                                                                                                         13
+SEACOM-AS, MU                                                                                                                                  14
+AZDIGI-AS-VN AZDIGI Corporation, VN                                                                                                            14
 SIS-AS-AP Star Internet Service, BD                                                                                                            13
-CMCTELECOM-AS-VN CMC Telecom Infrastructure Company, VN                                                                                        13
 EXABYTES-AS-AP Exa Bytes Network Sdn.Bhd., MY                                                                                                  13
+GIGABIT-MY Gigabit Hosting Sdn Bhd, MY                                                                                                         13
+CMCTELECOM-AS-VN CMC Telecom Infrastructure Company, VN                                                                                        13
 SUNHK-DATA-AS-AP Sun Network Hong Kong Limited - HongKong Backbone, HK                                                                         13
-ALGTEL-AS, DZ                                                                                                                                  12
-QTIME-AS-AP QTIME BUSINESSES PRIVATE LIMITED, IN                                                                                               12
-WEBICO-AS-VN Webico Company Limited, VN                                                                                                        12
-EDCL-AS-AP Eons Data Communications Limited, HK                                                                                                12
 XIAONIAOYUN Shenzhen Qianhai bird cloud computing Co. Ltd., CN                                                                                 12
+ALGTEL-AS, DZ                                                                                                                                  12
+MYREPUBLIC-AS-ID PT. Eka Mas Republik, ID                                                                                                      12
 CHINANET-LIAONING-DALIAN-MAN CHINANET Liaoning province Dalian MAN network, CN                                                                 12
 CHINANET-IDC-BJ-AP IDC, China Telecommunications Corporation, CN                                                                               12
-MYREPUBLIC-AS-ID PT. Eka Mas Republik, ID                                                                                                      12
+EDCL-AS-AP Eons Data Communications Limited, HK                                                                                                12
+QTIME-AS-AP QTIME BUSINESSES PRIVATE LIMITED, IN                                                                                               12
+WEBICO-AS-VN Webico Company Limited, VN                                                                                                        12
 RAINBOWISP-AS Rainbow communications India Pvt Ltd, IN                                                                                         12
-BIZNET-AS-AP BIZNET NETWORKS, ID                                                                                                               11
-VNL1-AS, NG                                                                                                                                    11
-HOSRAJA-AS Ovi Hosting Pvt Ltd, IN                                                                                                             11
-IDNIC-SIGMA-AS-ID PT. SIGMA CIPTA CARAKA, ID                                                                                                   11
 ARGON-AS-ID Argon Data Communication, ID                                                                                                       11
+HENGTONG-IDC-LLC, US                                                                                                                           11
 UNNES-AS-ID Universitas Negeri Semarang, ID                                                                                                    11
 COSMOPOLITAN1-AS-AP Cosmopolitan Communications Limited, BD                                                                                    11
-HENGTONG-IDC-LLC, US                                                                                                                           11
+VNL1-AS, NG                                                                                                                                    11
+BIZNET-AS-AP BIZNET NETWORKS, ID                                                                                                               11
+IDNIC-SIGMA-AS-ID PT. SIGMA CIPTA CARAKA, ID                                                                                                   11
+HOSRAJA-AS Ovi Hosting Pvt Ltd, IN                                                                                                             11
 TINP-TW Taiwan Infrastructure Network Technologie, TW                                                                                          11
 CHINATELECOM-CTCLOUD Cloud Computing Corporation, CN                                                                                           11
 HKBNES-AS-AP HKBN Enterprise Solutions HK Limited, HK                                                                                          11
