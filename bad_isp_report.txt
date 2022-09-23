@@ -4,6 +4,7 @@ TOT-NET TOT Public Company Limited, TH                                          
 CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                   142
 CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN                                                                                          126
 HINET Data Communication Business Group, TW                                                                                                   124
+BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               118
 VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                                                                                     117
 SERVER-MANIA, CA                                                                                                                              105
 GOOGLE-CLOUD-PLATFORM, US                                                                                                                      91
@@ -15,7 +16,6 @@ AS-COLOCROSSING, US                                                             
 PONYNET, US                                                                                                                                    75
 PHMGMT-AS1, US                                                                                                                                 74
 MICROSOFT-CORP-MSN-AS-BLOCK, US                                                                                                                72
-BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                                68
 NA                                                                                                                                             66
 PESAT1-AS-AP PT. Pasifik Satelit Nusantara, ID                                                                                                 59
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                                     58
