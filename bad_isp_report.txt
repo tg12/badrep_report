@@ -9,6 +9,7 @@ CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN                            
 SKB-AS SK Broadband Co Ltd, KR                                                                                                                107
 SERVER-MANIA, CA                                                                                                                               80
 Hero-Telecoms, ZA                                                                                                                              77
+BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                                74
 PONYNET, US                                                                                                                                    71
 UUNET, US                                                                                                                                      71
 NA                                                                                                                                             71
@@ -17,7 +18,6 @@ ASN-QUADRANET-GLOBAL, US                                                        
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                                     58
 CHINANET-SH-AP China Telecom Group, CN                                                                                                         55
 PESAT1-AS-AP PT. Pasifik Satelit Nusantara, ID                                                                                                 54
-BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                                54
 ATT-INTERNET4, US                                                                                                                              53
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                                        51
 GOOGLE-CLOUD-PLATFORM, US                                                                                                                      49
