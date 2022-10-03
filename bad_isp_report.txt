@@ -2,7 +2,6 @@ TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN            
 DIGITALOCEAN-ASN, US                                                                                                                          366
 BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               335
 CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                   293
-AS-COLOCROSSING, US                                                                                                                           141
 TOT-NET TOT Public Company Limited, TH                                                                                                        133
 CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                         130
 LGDACOM LG DACOM Corporation, KR                                                                                                              112
@@ -30,6 +29,7 @@ GOOGLE-CLOUD-PLATFORM, US                                                       
 AS62904, US                                                                                                                                    43
 FPT-AS-AP FPT Telecom Company, VN                                                                                                              42
 ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                                                                                41
+AS-COLOCROSSING, US                                                                                                                            38
 CEPATNET-AS-ID PT Mora Telematika Indonesia, ID                                                                                                36
 MICROSOFT-CORP-MSN-AS-BLOCK, US                                                                                                                34
 GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                                                                        30
