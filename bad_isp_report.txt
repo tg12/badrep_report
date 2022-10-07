@@ -3,6 +3,7 @@ DIGITALOCEAN-ASN, US                                                            
 BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               350
 CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                   246
 TOT-NET TOT Public Company Limited, TH                                                                                                        134
+AS-COLOCROSSING, US                                                                                                                           119
 CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                         112
 HINET Data Communication Business Group, TW                                                                                                   111
 VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP, VN                                                                                     105
@@ -12,16 +13,15 @@ SKB-AS SK Broadband Co Ltd, KR                                                  
 SERVER-MANIA, CA                                                                                                                               82
 UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                                                   80
 CHINANET-SH-AP China Telecom Group, CN                                                                                                         72
-PONYNET, US                                                                                                                                    70
 UUNET, US                                                                                                                                      70
-AS-COLOCROSSING, US                                                                                                                            69
+PONYNET, US                                                                                                                                    70
 ASN-QUADRANET-GLOBAL, US                                                                                                                       68
 Hero-Telecoms, ZA                                                                                                                              65
 ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                                                       61
 PDPL-AS-AP PI DATA CENTERS PRIVATE LIMITED, IN                                                                                                 60
 PHMGMT-AS1, US                                                                                                                                 59
-NA                                                                                                                                             57
 TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN                                                                                     57
+NA                                                                                                                                             57
 ATT-INTERNET4, US                                                                                                                              52
 CNIX-AP China Networks Inter-Exchange, CN                                                                                                      52
 AS62904, US                                                                                                                                    51
@@ -29,10 +29,10 @@ PESAT1-AS-AP PT. Pasifik Satelit Nusantara, ID                                  
 ASN-TELSTRA Telstra Corporation Ltd, AU                                                                                                        49
 GOOGLE-CLOUD-PLATFORM, US                                                                                                                      49
 FPT-AS-AP FPT Telecom Company, VN                                                                                                              45
-CT-GUANGZHOU-IDC CHINANET Guangdong province network, CN                                                                                       40
 MTNNS-AS, ZA                                                                                                                                   40
-MICROSOFT-CORP-MSN-AS-BLOCK, US                                                                                                                39
+CT-GUANGZHOU-IDC CHINANET Guangdong province network, CN                                                                                       40
 IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID                                                                                         39
+MICROSOFT-CORP-MSN-AS-BLOCK, US                                                                                                                39
 ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                                                                                37
 CEPATNET-AS-ID PT Mora Telematika Indonesia, ID                                                                                                36
 CLOUDFLARENET, US                                                                                                                              32
@@ -45,13 +45,13 @@ CLOUDIE-AS-AP Cloudie Limited, HK                                               
 CABLELITE-AS-AP Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA, IN                                         24
 IPIP-CN Beijing Tiantexin Tech. Co., Ltd., CN                                                                                                  24
 IT7NET, CA                                                                                                                                     23
+TFN-TW Taiwan Fixed Network, Telco and Network Service Provider., TW                                                                           23
 Telkom-Internet, ZA                                                                                                                            23
 TOT-LLI-AS-AP TOT Public Company Limited, TH                                                                                                   23
-TFN-TW Taiwan Fixed Network, Telco and Network Service Provider., TW                                                                           23
 TWC-20001-PACWEST, US                                                                                                                          22
+CTRLS-AS-IN CtrlS Datacenters Ltd., IN                                                                                                         21
 RETHEMHOSTING, US                                                                                                                              21
 CHINANET-JIANGSU-PROVINCE-IDC AS Number for CHINANET jiangsu province backbone, CN                                                             21
-CTRLS-AS-IN CtrlS Datacenters Ltd., IN                                                                                                         21
 CHINANET-IDC-BJ-AP IDC, China Telecommunications Corporation, CN                                                                               20
 ASDETUK www.heficed.com, GB                                                                                                                    19
 SERVERHUB-NL, US                                                                                                                               19
