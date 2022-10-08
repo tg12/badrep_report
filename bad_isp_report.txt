@@ -3,7 +3,7 @@ DIGITALOCEAN-ASN, US                                                            
 BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd., CN                                                                               349
 AS-COLOCROSSING, US                                                                                                                           288
 CHINANET-BACKBONE No.31,Jin-rong Street, CN                                                                                                   257
-PONYNET, US                                                                                                                                   155
+PONYNET, US                                                                                                                                   143
 TOT-NET TOT Public Company Limited, TH                                                                                                        134
 CHINA169-BJ China Unicom Beijing Province Network, CN                                                                                         118
 HINET Data Communication Business Group, TW                                                                                                   115
