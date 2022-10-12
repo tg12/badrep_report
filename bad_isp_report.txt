@@ -16,7 +16,7 @@ PESAT1-AS-AP PT. Pasifik Satelit Nusantara, ID                                  
 FPT-AS-AP FPT Telecom Company, VN                                                                                      48
 IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID                                                                 44
 LGDACOM LG DACOM Corporation, KR                                                                                       42
-ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                                                        36
+ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                                                        35
 GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                                                33
 ASDETUK www.heficed.com, GB                                                                                            33
 CEPATNET-AS-ID PT Mora Telematika Indonesia, ID                                                                        32
