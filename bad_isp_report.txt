@@ -19,19 +19,19 @@ IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID                          
 LGDACOM LG DACOM Corporation, KR                                                                                       43
 ICONPLN-ID-AP-ISP PT INDONESIA COMNETS PLUS, ID                                                                        36
 CEPATNET-AS-ID PT Mora Telematika Indonesia, ID                                                                        36
-GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                                                31
 PATRANET-AP Patrakom Internet Service Provider, ID                                                                     31
 UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED, HK                                                           31
 ASDETUK www.heficed.com, GB                                                                                            31
+GTPL-AS-AP Gujarat Telelink Pvt Ltd, IN                                                                                31
 CHINA169-BJ China Unicom Beijing Province Network, CN                                                                  30
 ELITE-BD ELITE COMMUNICATION, BD                                                                                       29
 ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN                                                               29
 CNIX-AP China Networks Inter-Exchange, CN                                                                              27
+ASN-QUADRANET-GLOBAL, US                                                                                               27
 HOST-AS-AP Host Universal Pty Ltd, AU                                                                                  27
-CTRLS-AS-IN CtrlS Datacenters Ltd., IN                                                                                 25
 TOT-LLI-AS-AP TOT Public Company Limited, TH                                                                           25
+CTRLS-AS-IN CtrlS Datacenters Ltd., IN                                                                                 25
 IPIP-CN Beijing Tiantexin Tech. Co., Ltd., CN                                                                          23
-ASN-QUADRANET-GLOBAL, US                                                                                               22
 FASTWAY-AS Fastway Transmission Private Limited, IN                                                                    21
 CHINANET-IDC-GD China Telecom Group, CN                                                                                21
 YISUCLOUDLTD-HK YISU CLOUD LTD, HK                                                                                     19
