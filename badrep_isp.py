@@ -34,7 +34,6 @@ SOFTWARE.'''
 # Created by https://github.com/tg12
 import requests
 import re
-import tabulate
 from fake_useragent import UserAgent
 from cymruwhois import Client
 import pandas as pd
